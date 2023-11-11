@@ -1,0 +1,10974 @@
+[
+  {
+    "id": 142494,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Dragon Ball Z: Kakarot - Dragon Ball Card Warriors",
+    "rating": 100.0,
+    "release_dates": [
+      {
+        "id": 225183,
+        "date": 1603756800
+      },
+      {
+        "id": 232659,
+        "date": 1603756800
+      },
+      {
+        "id": 232660,
+        "date": 1603756800
+      }
+    ]
+  },
+  {
+    "id": 2985,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Persona 4 Golden",
+    "rating": 95.26019822582681,
+    "release_dates": [
+      {
+        "id": 104838,
+        "date": 1339718400
+      },
+      {
+        "id": 104839,
+        "date": 1353369600
+      },
+      {
+        "id": 104840,
+        "date": 1361491200
+      }
+    ]
+  },
+  {
+    "id": 164664,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Sekiro: Shadows Die Twice - GOTY Edition",
+    "rating": 97.36553407200037,
+    "release_dates": [
+      {
+        "id": 351942,
+        "date": 1603843200
+      },
+      {
+        "id": 351943,
+        "date": 1603843200
+      },
+      {
+        "id": 351944,
+        "date": 1603843200
+      }
+    ]
+  },
+  {
+    "id": 138756,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Leisure Suit Larry: Wet Dreams Dry Twice",
+    "rating": 97.01571403188532,
+    "release_dates": [
+      {
+        "id": 214697,
+        "date": 1603411200
+      },
+      {
+        "id": 214698,
+        "date": 1603411200
+      },
+      {
+        "id": 236878,
+        "date": 1621296000
+      },
+      {
+        "id": 236879,
+        "date": 1621296000
+      },
+      {
+        "id": 243028,
+        "date": 1621296000
+      }
+    ]
+  },
+  {
+    "id": 135999,
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Tetris Effect: Connected",
+    "rating": 95.76934851416142,
+    "release_dates": [
+      {
+        "id": 214728,
+        "date": 1604966400
+      },
+      {
+        "id": 214729,
+        "date": 1604966400
+      },
+      {
+        "id": 214730,
+        "date": 1604966400
+      },
+      {
+        "id": 303222,
+        "date": 1633651200
+      },
+      {
+        "id": 305197,
+        "date": 1629244800
+      },
+      {
+        "id": 316536,
+        "date": 1589414400
+      },
+      {
+        "id": 316537,
+        "date": 1589414400
+      },
+      {
+        "id": 339243,
+        "date": 1633564800
+      },
+      {
+        "id": 366217,
+        "date": 1629244800
+      },
+      {
+        "id": 456264,
+        "date": 1677024000
+      },
+      {
+        "id": 475316,
+        "date": 1677024000
+      }
+    ]
+  },
+  {
+    "id": 119171,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Baldur's Gate 3",
+    "rating": 95.35118904570089,
+    "release_dates": [
+      {
+        "id": 474559,
+        "date": 1601942400
+      },
+      {
+        "id": 487025,
+        "date": 1693958400
+      },
+      {
+        "id": 507358,
+        "date": 1703980800
+      },
+      {
+        "id": 508258,
+        "date": 1691020800
+      },
+      {
+        "id": 508259,
+        "date": 1601942400
+      },
+      {
+        "id": 510464,
+        "date": 1693958400
+      },
+      {
+        "id": 511549,
+        "date": 1601942400
+      }
+    ]
+  },
+  {
+    "id": 131887,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Project +",
+    "rating": 93.9699863574352,
+    "release_dates": [
+      {
+        "id": 191325,
+        "date": 1584403200
+      }
+    ]
+  },
+  {
+    "id": 120710,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "The Henry Stickmin Collection",
+    "rating": 93.96821738312218,
+    "release_dates": [
+      {
+        "id": 206233,
+        "date": 1596758400
+      },
+      {
+        "id": 252494,
+        "date": 1596758400
+      }
+    ]
+  },
+  {
+    "id": 139403,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Jungles of Maxtheria",
+    "rating": 93.47721822541968,
+    "release_dates": [
+      {
+        "id": 213148,
+        "date": 1602720000
+      },
+      {
+        "id": 213149,
+        "date": 1602720000
+      },
+      {
+        "id": 213150,
+        "date": 1602720000
+      },
+      {
+        "id": 293294,
+        "date": 1602633600
+      },
+      {
+        "id": 293295,
+        "date": 1602633600
+      },
+      {
+        "id": 293296,
+        "date": 1602633600
+      }
+    ]
+  },
+  {
+    "id": 126098,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Half-Life: Alyx",
+    "rating": 93.44565920592916,
+    "release_dates": [
+      {
+        "id": 189002,
+        "date": 1584921600
+      },
+      {
+        "id": 189004,
+        "date": 1584921600
+      },
+      {
+        "id": 314066,
+        "date": 1584921600
+      }
+    ]
+  },
+  {
+    "id": 119295,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Microsoft Flight Simulator",
+    "rating": 93.43443750905442,
+    "release_dates": [
+      {
+        "id": 204223,
+        "date": 1597708800
+      },
+      {
+        "id": 289631,
+        "date": 1627344000
+      },
+      {
+        "id": 298409,
+        "date": 1597622400
+      }
+    ]
+  },
+  {
+    "id": 145327,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Town Star",
+    "rating": 93.31641285956007,
+    "release_dates": [
+      {
+        "id": 236641
+      },
+      {
+        "id": 236643,
+        "date": 1582675200
+      }
+    ]
+  },
+  {
+    "id": 187043,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Rising Star",
+    "rating": 92.48826291079811,
+    "release_dates": [
+      {
+        "id": 337596,
+        "date": 1586908800
+      }
+    ]
+  },
+  {
+    "id": 26192,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Last of Us Part II",
+    "rating": 91.00562969341367,
+    "release_dates": [
+      {
+        "id": 325918,
+        "date": 1592524800
+      }
+    ]
+  },
+  {
+    "id": 133416,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Cube Escape Collection",
+    "rating": 90.39911924131584,
+    "release_dates": [
+      {
+        "id": 212767,
+        "date": 1602633600
+      },
+      {
+        "id": 212768,
+        "date": 1602633600
+      },
+      {
+        "id": 360555,
+        "date": 1615420800
+      },
+      {
+        "id": 360556,
+        "date": 1614729600
+      }
+    ]
+  },
+  {
+    "id": 88647,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Subway Train Simulator 2D",
+    "rating": 90.0,
+    "release_dates": [
+      {
+        "id": 466750,
+        "date": 1606780800
+      }
+    ]
+  },
+  {
+    "id": 89738,
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Solitaire 3D",
+    "rating": 90.0,
+    "release_dates": [
+      {
+        "id": 304648,
+        "date": 1608681600
+      },
+      {
+        "id": 404378,
+        "date": 1593561600
+      },
+      {
+        "id": 404379,
+        "date": 1593561600
+      },
+      {
+        "id": 404380,
+        "date": 1593561600
+      }
+    ]
+  },
+  {
+    "id": 88844,
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Angry Zombies",
+    "rating": 90.0,
+    "release_dates": [
+      {
+        "id": 281504,
+        "date": 1582761600
+      }
+    ]
+  },
+  {
+    "id": 122195,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Monster Prom 2: Monster Camp",
+    "rating": 90.0,
+    "release_dates": [
+      {
+        "id": 216130,
+        "date": 1603411200
+      },
+      {
+        "id": 255288,
+        "date": 1603411200
+      },
+      {
+        "id": 255289,
+        "date": 1603411200
+      }
+    ]
+  },
+  {
+    "id": 119304,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Spiritfarer",
+    "rating": 89.93863268839581,
+    "release_dates": [
+      {
+        "id": 206933,
+        "date": 1597708800
+      },
+      {
+        "id": 207074,
+        "date": 1597708800
+      },
+      {
+        "id": 207075,
+        "date": 1597708800
+      },
+      {
+        "id": 207076,
+        "date": 1597708800
+      },
+      {
+        "id": 207077,
+        "date": 1597708800
+      },
+      {
+        "id": 207078,
+        "date": 1597708800
+      },
+      {
+        "id": 239656,
+        "date": 1597968000
+      }
+    ]
+  },
+  {
+    "id": 135913,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Shin Megami Tensei III: Nocturne - HD Remaster",
+    "rating": 89.93183947318904,
+    "release_dates": [
+      {
+        "id": 232779,
+        "date": 1603929600
+      },
+      {
+        "id": 232780,
+        "date": 1603929600
+      },
+      {
+        "id": 232781,
+        "date": 1603843200
+      },
+      {
+        "id": 234689,
+        "date": 1621900800
+      },
+      {
+        "id": 235812,
+        "date": 1621900800
+      },
+      {
+        "id": 239787,
+        "date": 1621900800
+      },
+      {
+        "id": 248926,
+        "date": 1621814400
+      },
+      {
+        "id": 313231,
+        "date": 1621468800
+      },
+      {
+        "id": 339136,
+        "date": 1621814400
+      }
+    ]
+  },
+  {
+    "id": 139446,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "Mortal Kombat 11: Ultimate",
+    "rating": 89.85763077516532,
+    "release_dates": [
+      {
+        "id": 213279,
+        "date": 1605571200
+      },
+      {
+        "id": 213280,
+        "date": 1605571200
+      },
+      {
+        "id": 213281,
+        "date": 1605571200
+      },
+      {
+        "id": 213282,
+        "date": 1605571200
+      },
+      {
+        "id": 213283,
+        "date": 1605571200
+      },
+      {
+        "id": 213284,
+        "date": 1605571200
+      },
+      {
+        "id": 239762,
+        "date": 1605571200
+      }
+    ]
+  },
+  {
+    "id": 134157,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "tModLoader",
+    "rating": 89.84838103068142,
+    "release_dates": [
+      {
+        "id": 197106,
+        "date": 1589673600
+      },
+      {
+        "id": 218334,
+        "date": 1589673600
+      },
+      {
+        "id": 218335,
+        "date": 1589673600
+      }
+    ]
+  },
+  {
+    "id": 75235,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Ghost of Tsushima",
+    "rating": 89.83351250740577,
+    "release_dates": [
+      {
+        "id": 223511,
+        "date": 1594944000
+      }
+    ]
+  },
+  {
+    "id": 56859,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Project Wingman",
+    "rating": 89.78938404827912,
+    "release_dates": [
+      {
+        "id": 220600,
+        "date": 1606780800
+      },
+      {
+        "id": 223711,
+        "date": 1606780800
+      },
+      {
+        "id": 330694,
+        "date": 1627516800
+      }
+    ]
+  },
+  {
+    "id": 133674,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Old World",
+    "rating": 89.72558341416752,
+    "release_dates": [
+      {
+        "id": 335328,
+        "date": 1625097600
+      },
+      {
+        "id": 335329,
+        "date": 1625097600
+      },
+      {
+        "id": 335490,
+        "date": 1588636800
+      },
+      {
+        "id": 447287,
+        "date": 1652918400
+      }
+    ]
+  },
+  {
+    "id": 36595,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Sakuna: Of Rice and Ruin",
+    "rating": 89.70463068800775,
+    "release_dates": [
+      {
+        "id": 217915,
+        "date": 1604966400
+      },
+      {
+        "id": 217916,
+        "date": 1604966400
+      },
+      {
+        "id": 217917,
+        "date": 1604966400
+      },
+      {
+        "id": 217918,
+        "date": 1605830400
+      },
+      {
+        "id": 217920,
+        "date": 1605139200
+      },
+      {
+        "id": 217921,
+        "date": 1605139200
+      },
+      {
+        "id": 339579,
+        "date": 1605744000
+      }
+    ]
+  },
+  {
+    "id": 121404,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Shady Part of Me",
+    "rating": 89.70282505313769,
+    "release_dates": [
+      {
+        "id": 225547,
+        "date": 1607558400
+      },
+      {
+        "id": 233045,
+        "date": 1607644800
+      },
+      {
+        "id": 233046,
+        "date": 1607558400
+      },
+      {
+        "id": 233047,
+        "date": 1607558400
+      },
+      {
+        "id": 250023,
+        "date": 1607558400
+      },
+      {
+        "id": 339564,
+        "date": 1607558400
+      },
+      {
+        "id": 413832,
+        "date": 1607558400
+      }
+    ]
+  },
+  {
+    "id": 23322,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Heroes: Trails From Zero",
+    "rating": 89.67825268108624,
+    "release_dates": [
+      {
+        "id": 190989,
+        "date": 1587600000
+      },
+      {
+        "id": 387573,
+        "date": 1664236800
+      },
+      {
+        "id": 387574,
+        "date": 1664236800
+      },
+      {
+        "id": 387575,
+        "date": 1664236800
+      },
+      {
+        "id": 387576,
+        "date": 1664496000
+      },
+      {
+        "id": 387577,
+        "date": 1664496000
+      },
+      {
+        "id": 387578,
+        "date": 1664496000
+      },
+      {
+        "id": 387579,
+        "date": 1665100800
+      },
+      {
+        "id": 387580,
+        "date": 1665100800
+      },
+      {
+        "id": 387581,
+        "date": 1665100800
+      }
+    ]
+  },
+  {
+    "id": 11155,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dreams",
+    "rating": 89.58445235661826,
+    "release_dates": [
+      {
+        "id": 526705,
+        "date": 1581638400
+      },
+      {
+        "id": 526706,
+        "date": 1595376000
+      }
+    ]
+  },
+  {
+    "id": 9632,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "From the Depths",
+    "rating": 89.40682414698162,
+    "release_dates": [
+      {
+        "id": 217111,
+        "date": 1604620800
+      },
+      {
+        "id": 286393,
+        "date": 1604620800
+      },
+      {
+        "id": 286394,
+        "date": 1604620800
+      }
+    ]
+  },
+  {
+    "id": 134402,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Frostpunk: On the Edge",
+    "rating": 89.3876361754053,
+    "release_dates": [
+      {
+        "id": 207173,
+        "date": 1597881600
+      },
+      {
+        "id": 401285,
+        "date": 1597881600
+      },
+      {
+        "id": 464074,
+        "date": 1597881600
+      },
+      {
+        "id": 464075,
+        "date": 1597881600
+      }
+    ]
+  },
+  {
+    "id": 139295,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Milk inside a bag of milk inside a bag of milk",
+    "rating": 89.19870859171168,
+    "release_dates": [
+      {
+        "id": 212680,
+        "date": 1598400000
+      },
+      {
+        "id": 376278,
+        "date": 1598400000
+      },
+      {
+        "id": 376279,
+        "date": 1598400000
+      },
+      {
+        "id": 424246,
+        "date": 1668124800
+      }
+    ]
+  },
+  {
+    "id": 132205,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "F1 2020",
+    "rating": 89.17553706762124,
+    "release_dates": [
+      {
+        "id": 194340,
+        "date": 1594339200
+      },
+      {
+        "id": 194341,
+        "date": 1594339200
+      },
+      {
+        "id": 194342,
+        "date": 1594339200
+      },
+      {
+        "id": 239646,
+        "date": 1594080000
+      },
+      {
+        "id": 253284,
+        "date": 1594252800
+      },
+      {
+        "id": 305520,
+        "date": 1598918400
+      }
+    ]
+  },
+  {
+    "id": 140204,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "BroodStar",
+    "rating": 89.16666666666666,
+    "release_dates": [
+      {
+        "id": 215059,
+        "date": 1601424000
+      },
+      {
+        "id": 484501,
+        "date": 1687564800
+      }
+    ]
+  },
+  {
+    "id": 19728,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Huntdown",
+    "rating": 89.16570052720424,
+    "release_dates": [
+      {
+        "id": 194818,
+        "date": 1589241600
+      },
+      {
+        "id": 196092,
+        "date": 1589241600
+      },
+      {
+        "id": 196098,
+        "date": 1589241600
+      },
+      {
+        "id": 196111,
+        "date": 1589241600
+      },
+      {
+        "id": 238096,
+        "date": 1589241600
+      },
+      {
+        "id": 238097,
+        "date": 1589241600
+      },
+      {
+        "id": 255322,
+        "date": 1620777600
+      },
+      {
+        "id": 255323,
+        "date": 1620777600
+      },
+      {
+        "id": 255324,
+        "date": 1620777600
+      },
+      {
+        "id": 315948,
+        "date": 1621900800
+      },
+      {
+        "id": 343286,
+        "date": 1635465600
+      }
+    ]
+  },
+  {
+    "id": 120436,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "One Piece: Pirate Warriors 4",
+    "rating": 89.11979556180145,
+    "release_dates": [
+      {
+        "id": 186385,
+        "date": 1585267200
+      },
+      {
+        "id": 186386,
+        "date": 1585267200
+      },
+      {
+        "id": 186387,
+        "date": 1585267200
+      },
+      {
+        "id": 194168,
+        "date": 1588032000
+      },
+      {
+        "id": 412050,
+        "date": 1585180800
+      }
+    ]
+  },
+  {
+    "id": 89594,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Monster Sanctuary",
+    "rating": 89.10917476569738,
+    "release_dates": [
+      {
+        "id": 220930,
+        "date": 1607385600
+      },
+      {
+        "id": 220931,
+        "date": 1607385600
+      },
+      {
+        "id": 220932,
+        "date": 1607385600
+      },
+      {
+        "id": 220976,
+        "date": 1607385600
+      },
+      {
+        "id": 300385,
+        "date": 1607385600
+      },
+      {
+        "id": 339560,
+        "date": 1607299200
+      },
+      {
+        "id": 411454,
+        "date": 1607385600
+      }
+    ]
+  },
+  {
+    "id": 26673,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Omori",
+    "rating": 89.10599821897586,
+    "release_dates": [
+      {
+        "id": 220146,
+        "date": 1608854400
+      },
+      {
+        "id": 286095,
+        "date": 1608854400
+      },
+      {
+        "id": 358636,
+        "date": 1655424000
+      },
+      {
+        "id": 367192,
+        "date": 1655424000
+      },
+      {
+        "id": 367193,
+        "date": 1655424000
+      },
+      {
+        "id": 368275,
+        "date": 1655424000
+      },
+      {
+        "id": 368276,
+        "date": 1655424000
+      },
+      {
+        "id": 447037,
+        "date": 1655942400
+      },
+      {
+        "id": 511567
+      }
+    ]
+  },
+  {
+    "id": 136770,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "DDraceNetwork",
+    "rating": 89.09090909090908,
+    "release_dates": [
+      {
+        "id": 207109,
+        "date": 1597622400
+      },
+      {
+        "id": 207110,
+        "date": 1597622400
+      },
+      {
+        "id": 207111,
+        "date": 1597622400
+      }
+    ]
+  },
+  {
+    "id": 132165,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Observer: System Redux",
+    "rating": 89.04424026545584,
+    "release_dates": [
+      {
+        "id": 212171,
+        "date": 1604966400
+      },
+      {
+        "id": 212172,
+        "date": 1605139200
+      },
+      {
+        "id": 212173,
+        "date": 1604966400
+      },
+      {
+        "id": 212174,
+        "date": 1605744000
+      },
+      {
+        "id": 242998,
+        "date": 1626393600
+      },
+      {
+        "id": 242999,
+        "date": 1626393600
+      },
+      {
+        "id": 307975,
+        "date": 1604966400
+      }
+    ]
+  },
+  {
+    "id": 224522,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Doom 64",
+    "rating": 88.79185652146461,
+    "release_dates": [
+      {
+        "id": 421617,
+        "date": 1584662400
+      },
+      {
+        "id": 421618,
+        "date": 1584662400
+      },
+      {
+        "id": 421619,
+        "date": 1584662400
+      },
+      {
+        "id": 421620,
+        "date": 1584662400
+      },
+      {
+        "id": 421621,
+        "date": 1589241600
+      }
+    ]
+  },
+  {
+    "id": 143335,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "DinoScape",
+    "rating": 88.68852459016394,
+    "release_dates": [
+      {
+        "id": 227921,
+        "date": 1592006400
+      },
+      {
+        "id": 227922,
+        "date": 1592179200
+      },
+      {
+        "id": 236480,
+        "date": 1597449600
+      }
+    ]
+  },
+  {
+    "id": 134100,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Borderlands 3: Bounty of Blood - A Fistful of Redemption",
+    "rating": 88.67015193361718,
+    "release_dates": [
+      {
+        "id": 199513,
+        "date": 1593043200
+      },
+      {
+        "id": 200327,
+        "date": 1593043200
+      },
+      {
+        "id": 200328,
+        "date": 1593043200
+      },
+      {
+        "id": 526820,
+        "date": 1696550400
+      }
+    ]
+  },
+  {
+    "id": 138947,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Marvel's Spider-Man: Miles Morales - Ultimate Edition",
+    "rating": 88.57769776601607,
+    "release_dates": [
+      {
+        "id": 211017,
+        "date": 1605139200
+      },
+      {
+        "id": 211018,
+        "date": 1605744000
+      }
+    ]
+  },
+  {
+    "id": 151267,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Kakele Online: MMORPG",
+    "rating": 88.44444444444446,
+    "release_dates": [
+      {
+        "id": 391170,
+        "date": 1580515200
+      }
+    ]
+  },
+  {
+    "id": 24512,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Ostriv",
+    "rating": 88.12608564865256,
+    "release_dates": [
+      {
+        "id": 192260,
+        "date": 1584576000
+      }
+    ]
+  },
+  {
+    "id": 11169,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy VII Remake",
+    "rating": 88.05872902675885,
+    "release_dates": [
+      {
+        "id": 185105,
+        "date": 1586476800
+      },
+      {
+        "id": 503303,
+        "date": 1623283200
+      }
+    ]
+  },
+  {
+    "id": 142722,
+    "genres": [
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      }
+    ],
+    "name": "Geotastic",
+    "rating": 88.03175395890429,
+    "release_dates": [
+      {
+        "id": 326876,
+        "date": 1603065600
+      }
+    ]
+  },
+  {
+    "id": 36550,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Yakuza: Like a Dragon",
+    "rating": 87.74144442841616,
+    "release_dates": [
+      {
+        "id": 217343,
+        "date": 1614643200
+      },
+      {
+        "id": 330143,
+        "date": 1579132800
+      },
+      {
+        "id": 330144,
+        "date": 1614297600
+      },
+      {
+        "id": 330145,
+        "date": 1614297600
+      },
+      {
+        "id": 330147,
+        "date": 1604966400
+      },
+      {
+        "id": 330149,
+        "date": 1604966400
+      },
+      {
+        "id": 330150,
+        "date": 1604966400
+      },
+      {
+        "id": 330152,
+        "date": 1604966400
+      },
+      {
+        "id": 330153,
+        "date": 1604966400
+      },
+      {
+        "id": 330154,
+        "date": 1604966400
+      },
+      {
+        "id": 330161,
+        "date": 1604966400
+      },
+      {
+        "id": 330162,
+        "date": 1604966400
+      },
+      {
+        "id": 330163,
+        "date": 1604966400
+      },
+      {
+        "id": 414479,
+        "date": 1604966400
+      }
+    ]
+  },
+  {
+    "id": 127816,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Paradise Killer",
+    "rating": 87.45497641652592,
+    "release_dates": [
+      {
+        "id": 207930,
+        "date": 1599177600
+      },
+      {
+        "id": 326706,
+        "date": 1599177600
+      },
+      {
+        "id": 347352,
+        "date": 1647388800
+      },
+      {
+        "id": 347353,
+        "date": 1647388800
+      },
+      {
+        "id": 348642,
+        "date": 1647388800
+      },
+      {
+        "id": 348643,
+        "date": 1647388800
+      }
+    ]
+  },
+  {
+    "id": 134606,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Demon's Souls",
+    "rating": 87.4390385060714,
+    "release_dates": [
+      {
+        "id": 210943,
+        "date": 1605139200
+      },
+      {
+        "id": 211453,
+        "date": 1605744000
+      }
+    ]
+  },
+  {
+    "id": 133945,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "World War Z: Game of the Year Edition",
+    "rating": 87.40281677357962,
+    "release_dates": [
+      {
+        "id": 195927,
+        "date": 1588636800
+      },
+      {
+        "id": 195928,
+        "date": 1588636800
+      },
+      {
+        "id": 195929,
+        "date": 1588636800
+      }
+    ]
+  },
+  {
+    "id": 37001,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Ori and the Will of the Wisps",
+    "rating": 87.14048171046322,
+    "release_dates": [
+      {
+        "id": 211066,
+        "date": 1600300800
+      },
+      {
+        "id": 217321,
+        "date": 1583884800
+      },
+      {
+        "id": 217323,
+        "date": 1604966400
+      },
+      {
+        "id": 414519,
+        "date": 1583798400
+      }
+    ]
+  },
+  {
+    "id": 126332,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Tales From Off-Peak City Vol. 1",
+    "rating": 87.07600921650673,
+    "release_dates": [
+      {
+        "id": 196238,
+        "date": 1589500800
+      },
+      {
+        "id": 196239,
+        "date": 1589500800
+      },
+      {
+        "id": 211979,
+        "date": 1589500800
+      }
+    ]
+  },
+  {
+    "id": 107218,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Desperados III",
+    "rating": 86.97744451907325,
+    "release_dates": [
+      {
+        "id": 193466,
+        "date": 1592265600
+      },
+      {
+        "id": 193467,
+        "date": 1592265600
+      },
+      {
+        "id": 193468,
+        "date": 1592265600
+      },
+      {
+        "id": 312334,
+        "date": 1592265600
+      },
+      {
+        "id": 407454,
+        "date": 1592265600
+      }
+    ]
+  },
+  {
+    "id": 143215,
+    "genres": [
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Super Danganronpa Another 2 ~The Moon of Hope and Sun of Despair~",
+    "rating": 86.79662567787722,
+    "release_dates": [
+      {
+        "id": 227480,
+        "date": 1578614400
+      }
+    ]
+  },
+  {
+    "id": 132224,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Fire Emblem: Three Houses - Cindered Shadows",
+    "rating": 86.72,
+    "release_dates": [
+      {
+        "id": 193419,
+        "date": 1581465600
+      }
+    ]
+  },
+  {
+    "id": 135337,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Bloodstained: Curse of the Moon 2",
+    "rating": 86.24045742022987,
+    "release_dates": [
+      {
+        "id": 202079,
+        "date": 1594339200
+      },
+      {
+        "id": 202080,
+        "date": 1594339200
+      },
+      {
+        "id": 202081,
+        "date": 1594339200
+      },
+      {
+        "id": 202082,
+        "date": 1594339200
+      },
+      {
+        "id": 341877,
+        "date": 1594252800
+      }
+    ]
+  },
+  {
+    "id": 124954,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Crusader Kings III",
+    "rating": 86.21529144710163,
+    "release_dates": [
+      {
+        "id": 195836,
+        "date": 1598918400
+      },
+      {
+        "id": 195837,
+        "date": 1598918400
+      },
+      {
+        "id": 195838,
+        "date": 1598918400
+      },
+      {
+        "id": 342409,
+        "date": 1648512000
+      },
+      {
+        "id": 342410,
+        "date": 1648512000
+      }
+    ]
+  },
+  {
+    "id": 55057,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Age of Empires III: Definitive Edition",
+    "rating": 86.1661643386853,
+    "release_dates": [
+      {
+        "id": 208322,
+        "date": 1602720000
+      }
+    ]
+  },
+  {
+    "id": 136604,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Control: Ultimate Edition",
+    "rating": 85.89313341209964,
+    "release_dates": [
+      {
+        "id": 206510,
+        "date": 1598486400
+      },
+      {
+        "id": 206511,
+        "date": 1599696000
+      },
+      {
+        "id": 206512,
+        "date": 1599696000
+      },
+      {
+        "id": 216110,
+        "date": 1603843200
+      },
+      {
+        "id": 222273,
+        "date": 1612224000
+      },
+      {
+        "id": 303462,
+        "date": 1599696000
+      },
+      {
+        "id": 327759,
+        "date": 1612224000
+      }
+    ]
+  },
+  {
+    "id": 122048,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mega Man Zero/ZX: Legacy Collection",
+    "rating": 85.8587044667116,
+    "release_dates": [
+      {
+        "id": 179768,
+        "date": 1582588800
+      },
+      {
+        "id": 179769,
+        "date": 1582588800
+      },
+      {
+        "id": 179770,
+        "date": 1582588800
+      },
+      {
+        "id": 179771,
+        "date": 1582588800
+      },
+      {
+        "id": 339932,
+        "date": 1582502400
+      }
+    ]
+  },
+  {
+    "id": 138932,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "name": "Devil May Cry 5: Special Edition",
+    "rating": 85.71364435283341,
+    "release_dates": [
+      {
+        "id": 327735,
+        "date": 1605139200
+      },
+      {
+        "id": 372908,
+        "date": 1604966400
+      }
+    ]
+  },
+  {
+    "id": 134597,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Astro's Playroom",
+    "rating": 85.38985364947774,
+    "release_dates": [
+      {
+        "id": 210944,
+        "date": 1605139200
+      },
+      {
+        "id": 210945,
+        "date": 1605139200
+      },
+      {
+        "id": 210946,
+        "date": 1605139200
+      },
+      {
+        "id": 210947,
+        "date": 1605139200
+      },
+      {
+        "id": 210948,
+        "date": 1605139200
+      },
+      {
+        "id": 210949,
+        "date": 1605744000
+      },
+      {
+        "id": 210950,
+        "date": 1605744000
+      },
+      {
+        "id": 210951,
+        "date": 1605744000
+      }
+    ]
+  },
+  {
+    "id": 124333,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Ultrakill",
+    "rating": 85.33561215315133,
+    "release_dates": [
+      {
+        "id": 499275,
+        "date": 1599091200
+      }
+    ]
+  },
+  {
+    "id": 149979,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "The Legend of Zelda: Second Wind",
+    "rating": 85.27061419351917,
+    "release_dates": [
+      {
+        "id": 327038,
+        "date": 1587600000
+      },
+      {
+        "id": 327039,
+        "date": 1587600000
+      }
+    ]
+  },
+  {
+    "id": 133149,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Post Void",
+    "rating": 85.1840136425062,
+    "release_dates": [
+      {
+        "id": 387813,
+        "date": 1648512000
+      },
+      {
+        "id": 387814,
+        "date": 1648512000
+      },
+      {
+        "id": 387815,
+        "date": 1596672000
+      },
+      {
+        "id": 387816,
+        "date": 1648512000
+      },
+      {
+        "id": 457903,
+        "date": 1678924800
+      }
+    ]
+  },
+  {
+    "id": 112104,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Command & Conquer Remastered Collection",
+    "rating": 85.0131618898524,
+    "release_dates": [
+      {
+        "id": 197751,
+        "date": 1591315200
+      }
+    ]
+  },
+  {
+    "id": 138949,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Marvel's Spider-Man Remastered",
+    "rating": 84.93117593319926,
+    "release_dates": [
+      {
+        "id": 211033,
+        "date": 1605139200
+      },
+      {
+        "id": 211034,
+        "date": 1605744000
+      },
+      {
+        "id": 362572,
+        "date": 1660262400
+      }
+    ]
+  },
+  {
+    "id": 103298,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Doom Eternal",
+    "rating": 84.9154704283839,
+    "release_dates": [
+      {
+        "id": 219928,
+        "date": 1607385600
+      },
+      {
+        "id": 239575,
+        "date": 1584662400
+      },
+      {
+        "id": 296427,
+        "date": 1584662400
+      },
+      {
+        "id": 296429,
+        "date": 1584662400
+      },
+      {
+        "id": 296430,
+        "date": 1624924800
+      },
+      {
+        "id": 296431,
+        "date": 1624924800
+      },
+      {
+        "id": 336147,
+        "date": 1623715200
+      },
+      {
+        "id": 410109,
+        "date": 1584576000
+      },
+      {
+        "id": 454841,
+        "date": 1584662400
+      }
+    ]
+  },
+  {
+    "id": 141415,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Das Balkonzimmer",
+    "rating": 84.86486486486486,
+    "release_dates": [
+      {
+        "id": 220781,
+        "date": 1606867200
+      }
+    ]
+  },
+  {
+    "id": 135295,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Stream Racer",
+    "rating": 84.76923076923077,
+    "release_dates": [
+      {
+        "id": 200985,
+        "date": 1592524800
+      }
+    ]
+  },
+  {
+    "id": 122238,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Xenoblade Chronicles: Definitive Edition",
+    "rating": 84.51663780342162,
+    "release_dates": [
+      {
+        "id": 191691,
+        "date": 1590710400
+      }
+    ]
+  },
+  {
+    "id": 135919,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Alba: A Wildlife Adventure",
+    "rating": 84.42536120756644,
+    "release_dates": [
+      {
+        "id": 218597,
+        "date": 1607644800
+      },
+      {
+        "id": 218598,
+        "date": 1607644800
+      },
+      {
+        "id": 247678,
+        "date": 1623196800
+      },
+      {
+        "id": 247679,
+        "date": 1623196800
+      },
+      {
+        "id": 247680,
+        "date": 1623196800
+      },
+      {
+        "id": 247681,
+        "date": 1623196800
+      },
+      {
+        "id": 247682,
+        "date": 1623196800
+      },
+      {
+        "id": 314527,
+        "date": 1639008000
+      }
+    ]
+  },
+  {
+    "id": 140158,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Supfly Delivery Simulator",
+    "rating": 84.39024390243902,
+    "release_dates": [
+      {
+        "id": 214895,
+        "date": 1602892800
+      },
+      {
+        "id": 214896,
+        "date": 1602892800
+      },
+      {
+        "id": 214897,
+        "date": 1602892800
+      },
+      {
+        "id": 505159,
+        "date": 1696032000
+      }
+    ]
+  },
+  {
+    "id": 272173,
+    "name": "Myst",
+    "release_dates": [
+      {
+        "id": 527355
+      },
+      {
+        "id": 530940
+      }
+    ]
+  },
+  {
+    "id": 129483,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Monster Train",
+    "rating": 83.91817218443327,
+    "release_dates": [
+      {
+        "id": 195277,
+        "date": 1590019200
+      },
+      {
+        "id": 235307,
+        "date": 1608076800
+      },
+      {
+        "id": 235308,
+        "date": 1608076800
+      }
+    ]
+  },
+  {
+    "id": 133887,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "Tony Hawk's Pro Skater 1+2",
+    "rating": 83.82832204997038,
+    "release_dates": [
+      {
+        "id": 496063,
+        "date": 1624579200
+      },
+      {
+        "id": 496064,
+        "date": 1624579200
+      },
+      {
+        "id": 496065,
+        "date": 1599177600
+      },
+      {
+        "id": 496066,
+        "date": 1599177600
+      },
+      {
+        "id": 496067,
+        "date": 1616716800
+      },
+      {
+        "id": 496068,
+        "date": 1599177600
+      },
+      {
+        "id": 496069,
+        "date": 1616716800
+      },
+      {
+        "id": 496563,
+        "date": 1616716800
+      },
+      {
+        "id": 496564,
+        "date": 1616716800
+      }
+    ]
+  },
+  {
+    "id": 136868,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Train Sim World 2",
+    "rating": 83.79260994897174,
+    "release_dates": [
+      {
+        "id": 207221,
+        "date": 1597881600
+      },
+      {
+        "id": 208161,
+        "date": 1597881600
+      },
+      {
+        "id": 210698,
+        "date": 1597881600
+      },
+      {
+        "id": 322317,
+        "date": 1629331200
+      }
+    ]
+  },
+  {
+    "id": 109462,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Animal Crossing: New Horizons",
+    "rating": 83.64156170246633,
+    "release_dates": [
+      {
+        "id": 171106,
+        "date": 1584662400
+      },
+      {
+        "id": 339963,
+        "date": 1584576000
+      }
+    ]
+  },
+  {
+    "id": 132907,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "There Is No Game: Wrong Dimension",
+    "rating": 83.33671017547834,
+    "release_dates": [
+      {
+        "id": 206376,
+        "date": 1596672000
+      },
+      {
+        "id": 206377,
+        "date": 1596672000
+      },
+      {
+        "id": 238347,
+        "date": 1618358400
+      },
+      {
+        "id": 302971,
+        "date": 1608163200
+      },
+      {
+        "id": 302972,
+        "date": 1608163200
+      },
+      {
+        "id": 339110,
+        "date": 1618272000
+      }
+    ]
+  },
+  {
+    "id": 132234,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "All Over",
+    "rating": 83.33333333333334,
+    "release_dates": [
+      {
+        "id": 500036,
+        "date": 1586131200
+      }
+    ]
+  },
+  {
+    "id": 115062,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Into the Radius",
+    "rating": 83.2954301652006,
+    "release_dates": [
+      {
+        "id": 388796,
+        "date": 1662595200
+      },
+      {
+        "id": 488483,
+        "date": 1581552000
+      },
+      {
+        "id": 488484,
+        "date": 1595203200
+      }
+    ]
+  },
+  {
+    "id": 131945,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Project Kat: Paper Lily Prologue",
+    "rating": 83.15694032311242,
+    "release_dates": [
+      {
+        "id": 191614,
+        "date": 1584316800
+      },
+      {
+        "id": 191615,
+        "date": 1584316800
+      },
+      {
+        "id": 357682,
+        "date": 1634256000
+      }
+    ]
+  },
+  {
+    "id": 9495,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Squad",
+    "rating": 83.13075449651159,
+    "release_dates": [
+      {
+        "id": 211428,
+        "date": 1600819200
+      }
+    ]
+  },
+  {
+    "id": 135254,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Crash Bandicoot 4: It's About Time",
+    "rating": 82.10468632505243,
+    "release_dates": [
+      {
+        "id": 201075,
+        "date": 1601596800
+      },
+      {
+        "id": 201076,
+        "date": 1601596800
+      },
+      {
+        "id": 227949,
+        "date": 1615507200
+      },
+      {
+        "id": 227950,
+        "date": 1615507200
+      },
+      {
+        "id": 227951,
+        "date": 1615507200
+      },
+      {
+        "id": 248674,
+        "date": 1615420800
+      },
+      {
+        "id": 339421,
+        "date": 1615420800
+      },
+      {
+        "id": 416968,
+        "date": 1616716800
+      }
+    ]
+  },
+  {
+    "id": 98469,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Hylics 2",
+    "rating": 82.04382348450146,
+    "release_dates": [
+      {
+        "id": 198782,
+        "date": 1592784000
+      },
+      {
+        "id": 198783,
+        "date": 1592784000
+      }
+    ]
+  },
+  {
+    "id": 24863,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Wasteland 3",
+    "rating": 82.01259544630616,
+    "release_dates": [
+      {
+        "id": 192393,
+        "date": 1598572800
+      },
+      {
+        "id": 192394,
+        "date": 1598572800
+      },
+      {
+        "id": 406544,
+        "date": 1598486400
+      },
+      {
+        "id": 406545,
+        "date": 1598486400
+      },
+      {
+        "id": 406546,
+        "date": 1598486400
+      }
+    ]
+  },
+  {
+    "id": 135915,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Overcooked! All You Can Eat",
+    "rating": 81.79925451446121,
+    "release_dates": [
+      {
+        "id": 218083,
+        "date": 1605139200
+      },
+      {
+        "id": 218084,
+        "date": 1605139200
+      },
+      {
+        "id": 228608,
+        "date": 1616457600
+      },
+      {
+        "id": 228644,
+        "date": 1616457600
+      },
+      {
+        "id": 228645,
+        "date": 1616457600
+      },
+      {
+        "id": 228646,
+        "date": 1616457600
+      },
+      {
+        "id": 247386,
+        "date": 1608163200
+      },
+      {
+        "id": 247387,
+        "date": 1608163200
+      },
+      {
+        "id": 339329,
+        "date": 1616371200
+      },
+      {
+        "id": 347787,
+        "date": 1648771200
+      }
+    ]
+  },
+  {
+    "id": 18020,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Visage",
+    "rating": 81.69916823732741,
+    "release_dates": [
+      {
+        "id": 215512,
+        "date": 1604016000
+      },
+      {
+        "id": 215513,
+        "date": 1604016000
+      },
+      {
+        "id": 328001,
+        "date": 1636588800
+      },
+      {
+        "id": 405245,
+        "date": 1603929600
+      }
+    ]
+  },
+  {
+    "id": 110834,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Creaks",
+    "rating": 81.6428013433987,
+    "release_dates": [
+      {
+        "id": 204296,
+        "date": 1595376000
+      },
+      {
+        "id": 204297,
+        "date": 1595376000
+      },
+      {
+        "id": 204298,
+        "date": 1595376000
+      },
+      {
+        "id": 204299,
+        "date": 1595376000
+      },
+      {
+        "id": 204300,
+        "date": 1594339200
+      },
+      {
+        "id": 338741,
+        "date": 1621296000
+      },
+      {
+        "id": 418599,
+        "date": 1595376000
+      }
+    ]
+  },
+  {
+    "id": 140781,
+    "genres": [
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      }
+    ],
+    "name": "Gartic Phone",
+    "rating": 81.47281311796546,
+    "release_dates": [
+      {
+        "id": 220602,
+        "date": 1601596800
+      }
+    ]
+  },
+  {
+    "id": 118607,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Art of Rally",
+    "rating": 81.4720365991945,
+    "release_dates": [
+      {
+        "id": 211483,
+        "date": 1600819200
+      },
+      {
+        "id": 211484,
+        "date": 1600819200
+      },
+      {
+        "id": 211485,
+        "date": 1600819200
+      },
+      {
+        "id": 301840,
+        "date": 1628726400
+      },
+      {
+        "id": 301841,
+        "date": 1628726400
+      },
+      {
+        "id": 301842,
+        "date": 1628726400
+      },
+      {
+        "id": 313999,
+        "date": 1633478400
+      },
+      {
+        "id": 314000,
+        "date": 1633478400
+      }
+    ]
+  },
+  {
+    "id": 113118,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "The Pathless",
+    "rating": 81.20453139901103,
+    "release_dates": [
+      {
+        "id": 212461,
+        "date": 1605139200
+      },
+      {
+        "id": 212462,
+        "date": 1605139200
+      },
+      {
+        "id": 212463,
+        "date": 1605139200
+      },
+      {
+        "id": 212464,
+        "date": 1605139200
+      },
+      {
+        "id": 212615,
+        "date": 1605139200
+      },
+      {
+        "id": 441469,
+        "date": 1675296000
+      },
+      {
+        "id": 441470,
+        "date": 1675296000
+      },
+      {
+        "id": 441471,
+        "date": 1675296000
+      }
+    ]
+  },
+  {
+    "id": 119323,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Chicken Police",
+    "rating": 81.20294700024749,
+    "release_dates": [
+      {
+        "id": 216571,
+        "date": 1604534400
+      },
+      {
+        "id": 216572,
+        "date": 1604534400
+      },
+      {
+        "id": 216573,
+        "date": 1604534400
+      },
+      {
+        "id": 240317,
+        "date": 1604534400
+      },
+      {
+        "id": 315977,
+        "date": 1624924800
+      },
+      {
+        "id": 338319,
+        "date": 1625097600
+      },
+      {
+        "id": 349539,
+        "date": 1638748800
+      },
+      {
+        "id": 351358,
+        "date": 1648598400
+      },
+      {
+        "id": 419735,
+        "date": 1604534400
+      }
+    ]
+  },
+  {
+    "id": 119239,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "rating": 80.94241858748667,
+    "release_dates": [
+      {
+        "id": 239695,
+        "date": 1607385600
+      },
+      {
+        "id": 252657,
+        "date": 1611187200
+      },
+      {
+        "id": 252658,
+        "date": 1611187200
+      },
+      {
+        "id": 252874,
+        "date": 1592870400
+      },
+      {
+        "id": 252875,
+        "date": 1592870400
+      },
+      {
+        "id": 252876,
+        "date": 1592870400
+      },
+      {
+        "id": 252877,
+        "date": 1592870400
+      },
+      {
+        "id": 252886,
+        "date": 1605139200
+      },
+      {
+        "id": 253099,
+        "date": 1604966400
+      }
+    ]
+  },
+  {
+    "id": 75239,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Spelunky 2",
+    "rating": 80.9058318985978,
+    "release_dates": [
+      {
+        "id": 210477,
+        "date": 1600128000
+      },
+      {
+        "id": 210478,
+        "date": 1601337600
+      },
+      {
+        "id": 335527,
+        "date": 1629936000
+      },
+      {
+        "id": 335528,
+        "date": 1642032000
+      },
+      {
+        "id": 335529,
+        "date": 1642032000
+      }
+    ]
+  },
+  {
+    "id": 52006,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Noita",
+    "rating": 80.8881652135196,
+    "release_dates": [
+      {
+        "id": 211427,
+        "date": 1602720000
+      }
+    ]
+  },
+  {
+    "id": 119159,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Fuga: Melodies of Steel",
+    "rating": 99.90281165726643,
+    "release_dates": [
+      {
+        "id": 289817,
+        "date": 1627516800
+      },
+      {
+        "id": 289818,
+        "date": 1627516800
+      },
+      {
+        "id": 289820,
+        "date": 1627516800
+      },
+      {
+        "id": 301362,
+        "date": 1627430400
+      },
+      {
+        "id": 303447,
+        "date": 1627516800
+      },
+      {
+        "id": 327720,
+        "date": 1627516800
+      },
+      {
+        "id": 417881,
+        "date": 1627430400
+      }
+    ]
+  },
+  {
+    "id": 135478,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Hrot",
+    "rating": 99.556158788185,
+    "release_dates": [
+      {
+        "id": 479543,
+        "date": 1611878400
+      },
+      {
+        "id": 479544,
+        "date": 1684195200
+      }
+    ]
+  },
+  {
+    "id": 165192,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls V: Skyrim - Anniversary Edition",
+    "rating": 98.65117648223443,
+    "release_dates": [
+      {
+        "id": 305460,
+        "date": 1636588800
+      },
+      {
+        "id": 305461,
+        "date": 1636588800
+      },
+      {
+        "id": 305462,
+        "date": 1636588800
+      },
+      {
+        "id": 305463,
+        "date": 1636588800
+      },
+      {
+        "id": 305464,
+        "date": 1636588800
+      },
+      {
+        "id": 389819,
+        "date": 1663200000
+      },
+      {
+        "id": 389820,
+        "date": 1663200000
+      },
+      {
+        "id": 397609,
+        "date": 1664323200
+      }
+    ]
+  },
+  {
+    "id": 165882,
+    "name": "Devil May Cry 5 + Vergil",
+    "rating": 98.31730378290031,
+    "release_dates": [
+      {
+        "id": 308084,
+        "date": 1630368000
+      },
+      {
+        "id": 525679
+      },
+      {
+        "id": 525680
+      }
+    ]
+  },
+  {
+    "id": 152765,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Castlevania Advance Collection",
+    "rating": 97.97937660065526,
+    "release_dates": [
+      {
+        "id": 313108,
+        "date": 1632355200
+      },
+      {
+        "id": 313109,
+        "date": 1632355200
+      },
+      {
+        "id": 313111,
+        "date": 1632355200
+      },
+      {
+        "id": 313112,
+        "date": 1632441600
+      }
+    ]
+  },
+  {
+    "id": 109241,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "The Binding of Isaac: Repentance",
+    "rating": 95.7469540328909,
+    "release_dates": [
+      {
+        "id": 224455,
+        "date": 1617148800
+      },
+      {
+        "id": 320106,
+        "date": 1635984000
+      },
+      {
+        "id": 350666,
+        "date": 1635984000
+      },
+      {
+        "id": 350710,
+        "date": 1635984000
+      },
+      {
+        "id": 476289,
+        "date": 1635984000
+      },
+      {
+        "id": 476290,
+        "date": 1635984000
+      }
+    ]
+  },
+  {
+    "id": 145947,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Portal Reloaded",
+    "rating": 95.50922787806776,
+    "release_dates": [
+      {
+        "id": 239536,
+        "date": 1618790400
+      }
+    ]
+  },
+  {
+    "id": 178264,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Bad End Theater",
+    "rating": 95.02033983479308,
+    "release_dates": [
+      {
+        "id": 322171,
+        "date": 1635206400
+      },
+      {
+        "id": 322172,
+        "date": 1635206400
+      },
+      {
+        "id": 322173,
+        "date": 1635206400
+      },
+      {
+        "id": 435160,
+        "date": 1637539200
+      }
+    ]
+  },
+  {
+    "id": 176552,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Animal Crossing: New Horizons - Happy Home Paradise",
+    "rating": 94.9453327156604,
+    "release_dates": [
+      {
+        "id": 320385,
+        "date": 1636070400
+      }
+    ]
+  },
+  {
+    "id": 178283,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "NFUT Cards",
+    "rating": 94.78260869565217,
+    "release_dates": [
+      {
+        "id": 322227,
+        "date": 1609459200
+      }
+    ]
+  },
+  {
+    "id": 152122,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Doki Doki Literature Club Plus!",
+    "rating": 93.96646764988348,
+    "release_dates": [
+      {
+        "id": 253361,
+        "date": 1625011200
+      },
+      {
+        "id": 253365,
+        "date": 1625011200
+      },
+      {
+        "id": 378958,
+        "date": 1625011200
+      },
+      {
+        "id": 378959,
+        "date": 1633564800
+      },
+      {
+        "id": 378960,
+        "date": 1633564800
+      },
+      {
+        "id": 378961,
+        "date": 1633564800
+      },
+      {
+        "id": 378962,
+        "date": 1625011200
+      },
+      {
+        "id": 378963,
+        "date": 1625011200
+      },
+      {
+        "id": 378964,
+        "date": 1625011200
+      }
+    ]
+  },
+  {
+    "id": 143232,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy XIV: Endwalker",
+    "rating": 92.98166481657526,
+    "release_dates": [
+      {
+        "id": 325285,
+        "date": 1638835200
+      },
+      {
+        "id": 325286,
+        "date": 1638835200
+      },
+      {
+        "id": 325287,
+        "date": 1638835200
+      },
+      {
+        "id": 376359,
+        "date": 1638835200
+      },
+      {
+        "id": 498477,
+        "date": 1719705600
+      }
+    ]
+  },
+  {
+    "id": 125764,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "Guilty Gear: Strive",
+    "rating": 92.66371372041914,
+    "release_dates": [
+      {
+        "id": 231552,
+        "date": 1623369600
+      },
+      {
+        "id": 231553,
+        "date": 1623369600
+      },
+      {
+        "id": 231554,
+        "date": 1623369600
+      },
+      {
+        "id": 301655,
+        "date": 1627516800
+      },
+      {
+        "id": 458685,
+        "date": 1678147200
+      },
+      {
+        "id": 458686,
+        "date": 1678147200
+      }
+    ]
+  },
+  {
+    "id": 144133,
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Gloam",
+    "rating": 92.5925925925926,
+    "release_dates": [
+      {
+        "id": 231043,
+        "date": 1614556800
+      }
+    ]
+  },
+  {
+    "id": 153700,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Ghost of Tsushima: Director's Cut",
+    "rating": 92.33192443904473,
+    "release_dates": [
+      {
+        "id": 296410,
+        "date": 1629417600
+      },
+      {
+        "id": 296411,
+        "date": 1629417600
+      }
+    ]
+  },
+  {
+    "id": 149292,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Alley Catz Bowling",
+    "rating": 92.06611570247935,
+    "release_dates": [
+      {
+        "id": 246146,
+        "date": 1622505600
+      },
+      {
+        "id": 246246,
+        "date": 1622073600
+      }
+    ]
+  },
+  {
+    "id": 141540,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Disco Elysium: The Final Cut",
+    "rating": 92.02687033269682,
+    "release_dates": [
+      {
+        "id": 234328,
+        "date": 1617062400
+      },
+      {
+        "id": 234329,
+        "date": 1617062400
+      },
+      {
+        "id": 234331,
+        "date": 1617062400
+      },
+      {
+        "id": 234332,
+        "date": 1617062400
+      },
+      {
+        "id": 239736,
+        "date": 1617062400
+      },
+      {
+        "id": 313018,
+        "date": 1633996800
+      },
+      {
+        "id": 313996,
+        "date": 1633996800
+      },
+      {
+        "id": 313997,
+        "date": 1633996800
+      },
+      {
+        "id": 339246,
+        "date": 1633910400
+      },
+      {
+        "id": 369490,
+        "date": 1661385600
+      }
+    ]
+  },
+  {
+    "id": 170777,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Deltarune: Chapter 2",
+    "rating": 90.64104627630792,
+    "release_dates": [
+      {
+        "id": 311306,
+        "date": 1631836800
+      },
+      {
+        "id": 311307,
+        "date": 1631836800
+      },
+      {
+        "id": 313037,
+        "date": 1632355200
+      },
+      {
+        "id": 313048,
+        "date": 1632355200
+      }
+    ]
+  },
+  {
+    "id": 142803,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Diablo II: Resurrected",
+    "rating": 90.59382061981546,
+    "release_dates": [
+      {
+        "id": 299399,
+        "date": 1632355200
+      },
+      {
+        "id": 299400,
+        "date": 1632355200
+      },
+      {
+        "id": 299401,
+        "date": 1632355200
+      },
+      {
+        "id": 299402,
+        "date": 1632355200
+      },
+      {
+        "id": 299403,
+        "date": 1632355200
+      },
+      {
+        "id": 299404,
+        "date": 1632355200
+      },
+      {
+        "id": 339227,
+        "date": 1632268800
+      }
+    ]
+  },
+  {
+    "id": 140839,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mass Effect Legendary Edition",
+    "rating": 90.50444569798938,
+    "release_dates": [
+      {
+        "id": 227160,
+        "date": 1620950400
+      },
+      {
+        "id": 227161,
+        "date": 1620950400
+      },
+      {
+        "id": 227162,
+        "date": 1620950400
+      }
+    ]
+  },
+  {
+    "id": 154772,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Ghost of Tsushima: Iki Island",
+    "rating": 90.09081791881923,
+    "release_dates": [
+      {
+        "id": 297216,
+        "date": 1629417600
+      },
+      {
+        "id": 297217,
+        "date": 1629417600
+      }
+    ]
+  },
+  {
+    "id": 146075,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "The Great Ace Attorney Chronicles",
+    "rating": 90.04390316065384,
+    "release_dates": [
+      {
+        "id": 240010,
+        "date": 1627344000
+      },
+      {
+        "id": 240011,
+        "date": 1627344000
+      },
+      {
+        "id": 240012,
+        "date": 1627344000
+      },
+      {
+        "id": 241465,
+        "date": 1627516800
+      },
+      {
+        "id": 241466,
+        "date": 1627516800
+      },
+      {
+        "id": 241467,
+        "date": 1627516800
+      },
+      {
+        "id": 301816,
+        "date": 1627257600
+      },
+      {
+        "id": 339171,
+        "date": 1627257600
+      }
+    ]
+  },
+  {
+    "id": 163344,
+    "genres": [
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Rune Evolution",
+    "rating": 90.0,
+    "release_dates": [
+      {
+        "id": 302975,
+        "date": 1626480000
+      }
+    ]
+  },
+  {
+    "id": 87067,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Runes of Avalon 2",
+    "rating": 90.0,
+    "release_dates": [
+      {
+        "id": 301890,
+        "date": 1627948800
+      }
+    ]
+  },
+  {
+    "id": 140972,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Nioh 2: The Complete Edition",
+    "rating": 89.96058630728349,
+    "release_dates": [
+      {
+        "id": 218143,
+        "date": 1612483200
+      },
+      {
+        "id": 219007,
+        "date": 1612483200
+      }
+    ]
+  },
+  {
+    "id": 245113,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mass Effect 2",
+    "rating": 89.92370972534007,
+    "release_dates": [
+      {
+        "id": 466327,
+        "date": 1620950400
+      },
+      {
+        "id": 466416,
+        "date": 1620950400
+      },
+      {
+        "id": 466417,
+        "date": 1620950400
+      }
+    ]
+  },
+  {
+    "id": 132312,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "UnMetal",
+    "rating": 89.85998579438731,
+    "release_dates": [
+      {
+        "id": 247874,
+        "date": 1618963200
+      },
+      {
+        "id": 315370,
+        "date": 1632787200
+      },
+      {
+        "id": 315371,
+        "date": 1632787200
+      },
+      {
+        "id": 315372,
+        "date": 1632787200
+      },
+      {
+        "id": 315373,
+        "date": 1632787200
+      }
+    ]
+  },
+  {
+    "id": 145439,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Escape Simulator",
+    "rating": 89.80412574714238,
+    "release_dates": [
+      {
+        "id": 318327,
+        "date": 1634601600
+      },
+      {
+        "id": 318328,
+        "date": 1634601600
+      }
+    ]
+  },
+  {
+    "id": 265847,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Wordle",
+    "release_dates": [
+      {
+        "id": 513077,
+        "date": 1646524800
+      }
+    ]
+  },
+  {
+    "id": 127254,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Pathfinder: Wrath of the Righteous",
+    "rating": 89.51380794250892,
+    "release_dates": [
+      {
+        "id": 242645,
+        "date": 1630540800
+      },
+      {
+        "id": 373500,
+        "date": 1664409600
+      },
+      {
+        "id": 373501,
+        "date": 1664409600
+      },
+      {
+        "id": 393201,
+        "date": 1664409600
+      },
+      {
+        "id": 445931,
+        "date": 1664409600
+      }
+    ]
+  },
+  {
+    "id": 115425,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Darkest Dungeon II",
+    "rating": 89.50847299153492,
+    "release_dates": [
+      {
+        "id": 470567,
+        "date": 1635206400
+      },
+      {
+        "id": 470568,
+        "date": 1683504000
+      }
+    ]
+  },
+  {
+    "id": 138227,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario 3D World + Bowser's Fury",
+    "rating": 89.38751156976394,
+    "release_dates": [
+      {
+        "id": 209196,
+        "date": 1613088000
+      }
+    ]
+  },
+  {
+    "id": 27907,
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Rhythm Doctor",
+    "rating": 89.30437058582183,
+    "release_dates": [
+      {
+        "id": 529866,
+        "date": 1614297600
+      },
+      {
+        "id": 529867,
+        "date": 1614297600
+      }
+    ]
+  },
+  {
+    "id": 142076,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Cruelty Squad",
+    "rating": 89.10596763579844,
+    "release_dates": [
+      {
+        "id": 496487,
+        "date": 1609718400
+      },
+      {
+        "id": 496488,
+        "date": 1623715200
+      }
+    ]
+  },
+  {
+    "id": 140174,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed Valhalla: Wrath of the Druids",
+    "rating": 89.10560325402086,
+    "release_dates": [
+      {
+        "id": 238435,
+        "date": 1620864000
+      },
+      {
+        "id": 238436,
+        "date": 1620864000
+      },
+      {
+        "id": 238437,
+        "date": 1620864000
+      },
+      {
+        "id": 238438,
+        "date": 1620864000
+      },
+      {
+        "id": 238439,
+        "date": 1620864000
+      }
+    ]
+  },
+  {
+    "id": 14741,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Psychonauts 2",
+    "rating": 89.01084566294057,
+    "release_dates": [
+      {
+        "id": 289609,
+        "date": 1629849600
+      },
+      {
+        "id": 289610,
+        "date": 1629849600
+      },
+      {
+        "id": 289611,
+        "date": 1629849600
+      },
+      {
+        "id": 289612,
+        "date": 1629849600
+      },
+      {
+        "id": 407039,
+        "date": 1629763200
+      },
+      {
+        "id": 407040,
+        "date": 1629763200
+      }
+    ]
+  },
+  {
+    "id": 24417,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Eastward",
+    "rating": 88.95835732387424,
+    "release_dates": [
+      {
+        "id": 303243,
+        "date": 1631750400
+      },
+      {
+        "id": 303244,
+        "date": 1631750400
+      },
+      {
+        "id": 308433,
+        "date": 1631750400
+      },
+      {
+        "id": 314563,
+        "date": 1637798400
+      },
+      {
+        "id": 428635,
+        "date": 1669852800
+      }
+    ]
+  },
+  {
+    "id": 135243,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "It Takes Two",
+    "rating": 88.9495430011432,
+    "release_dates": [
+      {
+        "id": 221508,
+        "date": 1616716800
+      },
+      {
+        "id": 221509,
+        "date": 1616716800
+      },
+      {
+        "id": 221511,
+        "date": 1616716800
+      },
+      {
+        "id": 221512,
+        "date": 1616716800
+      },
+      {
+        "id": 388904,
+        "date": 1667520000
+      },
+      {
+        "id": 413496,
+        "date": 1616630400
+      }
+    ]
+  },
+  {
+    "id": 2180,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario 3D World",
+    "rating": 84.83460313486957,
+    "release_dates": [
+      {
+        "id": 80987,
+        "date": 1384992000
+      },
+      {
+        "id": 80989,
+        "date": 1385683200
+      },
+      {
+        "id": 80990,
+        "date": 1385769600
+      },
+      {
+        "id": 240717,
+        "date": 1384992000
+      },
+      {
+        "id": 502714,
+        "date": 1385424000
+      }
+    ]
+  },
+  {
+    "id": 152063,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Death Stranding: Director's Cut",
+    "rating": 88.556851337841,
+    "release_dates": [
+      {
+        "id": 481106,
+        "date": 1648598400
+      },
+      {
+        "id": 481107,
+        "date": 1632441600
+      },
+      {
+        "id": 481108,
+        "date": 1703980800
+      },
+      {
+        "id": 515290,
+        "date": 1703980800
+      }
+    ]
+  },
+  {
+    "id": 126120,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Say No! More",
+    "rating": 88.50087760877861,
+    "release_dates": [
+      {
+        "id": 237409,
+        "date": 1617926400
+      },
+      {
+        "id": 237410,
+        "date": 1617926400
+      },
+      {
+        "id": 237411,
+        "date": 1617926400
+      },
+      {
+        "id": 237412,
+        "date": 1617926400
+      },
+      {
+        "id": 339107,
+        "date": 1617840000
+      }
+    ]
+  },
+  {
+    "id": 134582,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Ratchet & Clank: Rift Apart",
+    "rating": 87.95627033015023,
+    "release_dates": [
+      {
+        "id": 228151,
+        "date": 1623369600
+      },
+      {
+        "id": 479678,
+        "date": 1690329600
+      }
+    ]
+  },
+  {
+    "id": 26775,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Shin Megami Tensei V",
+    "rating": 87.69366296944676,
+    "release_dates": [
+      {
+        "id": 290340,
+        "date": 1636675200
+      },
+      {
+        "id": 337357,
+        "date": 1636675200
+      }
+    ]
+  },
+  {
+    "id": 139090,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Inscryption",
+    "rating": 87.55976921633217,
+    "release_dates": [
+      {
+        "id": 313638,
+        "date": 1634601600
+      },
+      {
+        "id": 373396,
+        "date": 1661817600
+      },
+      {
+        "id": 373397,
+        "date": 1661817600
+      },
+      {
+        "id": 407979,
+        "date": 1634601600
+      },
+      {
+        "id": 407980,
+        "date": 1634601600
+      },
+      {
+        "id": 423011,
+        "date": 1669852800
+      },
+      {
+        "id": 467847,
+        "date": 1681084800
+      },
+      {
+        "id": 467848,
+        "date": 1681084800
+      }
+    ]
+  },
+  {
+    "id": 146761,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Outer Wilds: Echoes of the Eye",
+    "rating": 87.45242289772514,
+    "release_dates": [
+      {
+        "id": 300997,
+        "date": 1632787200
+      },
+      {
+        "id": 300999,
+        "date": 1632787200
+      },
+      {
+        "id": 301006,
+        "date": 1632787200
+      },
+      {
+        "id": 459205,
+        "date": 1632787200
+      }
+    ]
+  },
+  {
+    "id": 146851,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Lost Judgment",
+    "rating": 87.1827468932631,
+    "release_dates": [
+      {
+        "id": 243148,
+        "date": 1632441600
+      },
+      {
+        "id": 243149,
+        "date": 1632441600
+      },
+      {
+        "id": 243150,
+        "date": 1632441600
+      },
+      {
+        "id": 243151,
+        "date": 1632441600
+      },
+      {
+        "id": 389349,
+        "date": 1663113600
+      }
+    ]
+  },
+  {
+    "id": 144024,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy VII Remake Intergrade",
+    "rating": 87.04967895884037,
+    "release_dates": [
+      {
+        "id": 230798,
+        "date": 1623283200
+      },
+      {
+        "id": 416196,
+        "date": 1639612800
+      }
+    ]
+  },
+  {
+    "id": 111661,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Omno",
+    "rating": 87.04633999711896,
+    "release_dates": [
+      {
+        "id": 300245,
+        "date": 1627516800
+      },
+      {
+        "id": 300246,
+        "date": 1627516800
+      },
+      {
+        "id": 300247,
+        "date": 1627516800
+      },
+      {
+        "id": 300248,
+        "date": 1627516800
+      },
+      {
+        "id": 300841,
+        "date": 1627430400
+      },
+      {
+        "id": 334363,
+        "date": 1639612800
+      },
+      {
+        "id": 336022,
+        "date": 1639612800
+      }
+    ]
+  },
+  {
+    "id": 104967,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Valheim",
+    "rating": 86.8481897964614,
+    "release_dates": [
+      {
+        "id": 227373,
+        "date": 1612224000
+      },
+      {
+        "id": 248043,
+        "date": 1612224000
+      },
+      {
+        "id": 454055,
+        "date": 1678752000
+      },
+      {
+        "id": 454056,
+        "date": 1678752000
+      },
+      {
+        "id": 460199,
+        "date": 1663286400
+      },
+      {
+        "id": 460200,
+        "date": 1663286400
+      }
+    ]
+  },
+  {
+    "id": 134595,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Hitman 3",
+    "rating": 86.70011020469686,
+    "release_dates": [
+      {
+        "id": 208219,
+        "date": 1611100800
+      },
+      {
+        "id": 208220,
+        "date": 1611100800
+      },
+      {
+        "id": 208222,
+        "date": 1611100800
+      },
+      {
+        "id": 208223,
+        "date": 1611100800
+      },
+      {
+        "id": 208224,
+        "date": 1611100800
+      },
+      {
+        "id": 416822,
+        "date": 1611100800
+      },
+      {
+        "id": 504335,
+        "date": 1611100800
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Quake",
+    "rating": 82.45626697618208,
+    "release_dates": [
+      {
+        "id": 203582,
+        "date": 835401600
+      },
+      {
+        "id": 203583,
+        "date": 878256000
+      },
+      {
+        "id": 203584,
+        "date": 872726400
+      },
+      {
+        "id": 203586,
+        "date": 915062400
+      },
+      {
+        "id": 203587,
+        "date": 915062400
+      },
+      {
+        "id": 203589,
+        "date": 836524800
+      },
+      {
+        "id": 203590,
+        "date": 835401600
+      },
+      {
+        "id": 203592,
+        "date": 1128124800
+      },
+      {
+        "id": 312932,
+        "date": 1243209600
+      },
+      {
+        "id": 490708,
+        "date": 890697600
+      }
+    ]
+  },
+  {
+    "id": 142488,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Tiny Lands",
+    "rating": 86.3035571180234,
+    "release_dates": [
+      {
+        "id": 246647,
+        "date": 1622764800
+      },
+      {
+        "id": 246648,
+        "date": 1622764800
+      },
+      {
+        "id": 401489,
+        "date": 1611187200
+      }
+    ]
+  },
+  {
+    "id": 138858,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Ender Lilies: Quietus of the Knights",
+    "rating": 85.88530685938416,
+    "release_dates": [
+      {
+        "id": 304246,
+        "date": 1624924800
+      },
+      {
+        "id": 304390,
+        "date": 1624233600
+      },
+      {
+        "id": 498399,
+        "date": 1624233600
+      },
+      {
+        "id": 498400,
+        "date": 1624233600
+      },
+      {
+        "id": 498401,
+        "date": 1611187200
+      },
+      {
+        "id": 498402,
+        "date": 1625529600
+      },
+      {
+        "id": 498403,
+        "date": 1625529600
+      },
+      {
+        "id": 498404,
+        "date": 1624924800
+      }
+    ]
+  },
+  {
+    "id": 91477,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Before Your Eyes",
+    "rating": 85.73504335488033,
+    "release_dates": [
+      {
+        "id": 235826,
+        "date": 1617840000
+      },
+      {
+        "id": 335106,
+        "date": 1617840000
+      },
+      {
+        "id": 422668,
+        "date": 1658448000
+      },
+      {
+        "id": 422669,
+        "date": 1658793600
+      },
+      {
+        "id": 455234,
+        "date": 1678406400
+      }
+    ]
+  },
+  {
+    "id": 148648,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Land of Heroes",
+    "rating": 85.0,
+    "release_dates": [
+      {
+        "id": 245927,
+        "date": 1611964800
+      }
+    ]
+  },
+  {
+    "id": 37057,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Griftlands",
+    "rating": 84.93885873444177,
+    "release_dates": [
+      {
+        "id": 251831,
+        "date": 1622764800
+      },
+      {
+        "id": 251832,
+        "date": 1622764800
+      },
+      {
+        "id": 251833,
+        "date": 1622764800
+      },
+      {
+        "id": 252003,
+        "date": 1622764800
+      },
+      {
+        "id": 335268,
+        "date": 1622505600
+      },
+      {
+        "id": 335269,
+        "date": 1622505600
+      },
+      {
+        "id": 335270,
+        "date": 1622505600
+      },
+      {
+        "id": 338668,
+        "date": 1622764800
+      }
+    ]
+  },
+  {
+    "id": 15698,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metroid Dread",
+    "rating": 84.8079674144544,
+    "release_dates": [
+      {
+        "id": 296763,
+        "date": 1633651200
+      },
+      {
+        "id": 339239,
+        "date": 1633564800
+      }
+    ]
+  },
+  {
+    "id": 141503,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Forza Horizon 5",
+    "rating": 84.80064573701159,
+    "release_dates": [
+      {
+        "id": 289642,
+        "date": 1636416000
+      },
+      {
+        "id": 289660,
+        "date": 1636416000
+      },
+      {
+        "id": 322301,
+        "date": 1636416000
+      }
+    ]
+  },
+  {
+    "id": 168537,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Football Manager 2022",
+    "rating": 84.69459730058189,
+    "release_dates": [
+      {
+        "id": 309855,
+        "date": 1636416000
+      },
+      {
+        "id": 309856,
+        "date": 1636416000
+      },
+      {
+        "id": 309857,
+        "date": 1636416000
+      },
+      {
+        "id": 309858,
+        "date": 1636416000
+      },
+      {
+        "id": 310081,
+        "date": 1636416000
+      }
+    ]
+  },
+  {
+    "id": 103219,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Strangeland",
+    "rating": 84.60451685110036,
+    "release_dates": [
+      {
+        "id": 355260,
+        "date": 1630108800
+      },
+      {
+        "id": 355261,
+        "date": 1624924800
+      },
+      {
+        "id": 453365,
+        "date": 1621900800
+      }
+    ]
+  },
+  {
+    "id": 144442,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Goose Goose Duck",
+    "rating": 84.59442757156279,
+    "release_dates": [
+      {
+        "id": 316761,
+        "date": 1633219200
+      },
+      {
+        "id": 316762,
+        "date": 1633219200
+      },
+      {
+        "id": 531673,
+        "date": 1633305600
+      }
+    ]
+  },
+  {
+    "id": 127358,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Ruined King: A League of Legends Story",
+    "rating": 84.55739560680817,
+    "release_dates": [
+      {
+        "id": 325378,
+        "date": 1637020800
+      },
+      {
+        "id": 325379,
+        "date": 1637020800
+      },
+      {
+        "id": 325381,
+        "date": 1637020800
+      },
+      {
+        "id": 325382,
+        "date": 1637020800
+      },
+      {
+        "id": 448688,
+        "date": 1637020800
+      },
+      {
+        "id": 457796,
+        "date": 1677715200
+      },
+      {
+        "id": 457797,
+        "date": 1677715200
+      }
+    ]
+  },
+  {
+    "id": 134584,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Returnal",
+    "rating": 84.30811229993138,
+    "release_dates": [
+      {
+        "id": 226568,
+        "date": 1619740800
+      },
+      {
+        "id": 439650,
+        "date": 1676419200
+      }
+    ]
+  },
+  {
+    "id": 131999,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "NieR Replicant ver.1.22474487139...",
+    "rating": 84.16403885280401,
+    "release_dates": [
+      {
+        "id": 211622,
+        "date": 1619136000
+      },
+      {
+        "id": 211623,
+        "date": 1619136000
+      },
+      {
+        "id": 231754,
+        "date": 1619222400
+      },
+      {
+        "id": 231755,
+        "date": 1619049600
+      },
+      {
+        "id": 231756,
+        "date": 1619049600
+      },
+      {
+        "id": 293486,
+        "date": 1619136000
+      }
+    ]
+  },
+  {
+    "id": 121697,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Heavenly Bodies",
+    "rating": 84.12338832217266,
+    "release_dates": [
+      {
+        "id": 325561,
+        "date": 1638835200
+      },
+      {
+        "id": 325562,
+        "date": 1638835200
+      },
+      {
+        "id": 325563,
+        "date": 1638835200
+      },
+      {
+        "id": 433485,
+        "date": 1638835200
+      },
+      {
+        "id": 507780,
+        "date": 1692835200
+      },
+      {
+        "id": 507781,
+        "date": 1692835200
+      }
+    ]
+  },
+  {
+    "id": 152354,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Mario Party Superstars",
+    "rating": 84.05046686563672,
+    "release_dates": [
+      {
+        "id": 290367,
+        "date": 1635465600
+      },
+      {
+        "id": 339255,
+        "date": 1635379200
+      }
+    ]
+  },
+  {
+    "id": 118193,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Toem",
+    "rating": 84.01110966745657,
+    "release_dates": [
+      {
+        "id": 493153,
+        "date": 1689638400
+      },
+      {
+        "id": 493154,
+        "date": 1689638400
+      },
+      {
+        "id": 516333,
+        "date": 1631836800
+      },
+      {
+        "id": 516334,
+        "date": 1631836800
+      },
+      {
+        "id": 516335,
+        "date": 1631836800
+      },
+      {
+        "id": 516336,
+        "date": 1631836800
+      }
+    ]
+  },
+  {
+    "id": 55163,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Resident Evil Village",
+    "rating": 83.90017317630354,
+    "release_dates": [
+      {
+        "id": 515291,
+        "date": 1620345600
+      },
+      {
+        "id": 515292,
+        "date": 1666915200
+      },
+      {
+        "id": 515293,
+        "date": 1620259200
+      },
+      {
+        "id": 515294,
+        "date": 1620345600
+      },
+      {
+        "id": 515295,
+        "date": 1620345600
+      },
+      {
+        "id": 515296,
+        "date": 1677024000
+      },
+      {
+        "id": 515297,
+        "date": 1620345600
+      },
+      {
+        "id": 515298,
+        "date": 1620345600
+      },
+      {
+        "id": 515299,
+        "date": 1703980800
+      },
+      {
+        "id": 515557,
+        "date": 1620345600
+      },
+      {
+        "id": 515558,
+        "date": 1620345600
+      }
+    ]
+  },
+  {
+    "id": 121760,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Little Nightmares II",
+    "rating": 83.82684752043453,
+    "release_dates": [
+      {
+        "id": 218917,
+        "date": 1613001600
+      },
+      {
+        "id": 218919,
+        "date": 1613001600
+      },
+      {
+        "id": 218920,
+        "date": 1613001600
+      },
+      {
+        "id": 229174,
+        "date": 1613001600
+      },
+      {
+        "id": 312537,
+        "date": 1629849600
+      },
+      {
+        "id": 327701,
+        "date": 1629936000
+      },
+      {
+        "id": 414575,
+        "date": 1612915200
+      }
+    ]
+  },
+  {
+    "id": 117266,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Chicory: A Colorful Tale",
+    "rating": 83.81002849040455,
+    "release_dates": [
+      {
+        "id": 246626,
+        "date": 1623283200
+      },
+      {
+        "id": 246627,
+        "date": 1623283200
+      },
+      {
+        "id": 246628,
+        "date": 1623283200
+      },
+      {
+        "id": 246629,
+        "date": 1623283200
+      },
+      {
+        "id": 330533,
+        "date": 1639526400
+      },
+      {
+        "id": 475766,
+        "date": 1685404800
+      },
+      {
+        "id": 475767,
+        "date": 1685404800
+      }
+    ]
+  },
+  {
+    "id": 146112,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Farming Simulator 22",
+    "rating": 83.77067107054387,
+    "release_dates": [
+      {
+        "id": 306953,
+        "date": 1637539200
+      },
+      {
+        "id": 306954,
+        "date": 1637539200
+      },
+      {
+        "id": 306955,
+        "date": 1637539200
+      },
+      {
+        "id": 306956,
+        "date": 1637539200
+      },
+      {
+        "id": 306957,
+        "date": 1637539200
+      },
+      {
+        "id": 306958,
+        "date": 1637539200
+      },
+      {
+        "id": 306959,
+        "date": 1637539200
+      }
+    ]
+  },
+  {
+    "id": 158980,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Final Fantasy",
+    "rating": 83.6076704244646,
+    "release_dates": [
+      {
+        "id": 298771,
+        "date": 1627430400
+      },
+      {
+        "id": 298938,
+        "date": 1627430400
+      },
+      {
+        "id": 298939,
+        "date": 1627430400
+      },
+      {
+        "id": 465783,
+        "date": 1681862400
+      },
+      {
+        "id": 465784,
+        "date": 1681862400
+      }
+    ]
+  },
+  {
+    "id": 103320,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "The Forgotten City",
+    "rating": 83.31733269272327,
+    "release_dates": [
+      {
+        "id": 253333,
+        "date": 1627430400
+      },
+      {
+        "id": 253334,
+        "date": 1627430400
+      },
+      {
+        "id": 253335,
+        "date": 1627430400
+      },
+      {
+        "id": 253337,
+        "date": 1627430400
+      },
+      {
+        "id": 253338,
+        "date": 1627430400
+      },
+      {
+        "id": 455884,
+        "date": 1677110400
+      }
+    ]
+  },
+  {
+    "id": 113598,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Deathloop",
+    "rating": 82.92662961762134,
+    "release_dates": [
+      {
+        "id": 237613,
+        "date": 1631577600
+      },
+      {
+        "id": 237614,
+        "date": 1631577600
+      },
+      {
+        "id": 389818,
+        "date": 1663632000
+      }
+    ]
+  },
+  {
+    "id": 71595,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Flynn: Son of Crimson",
+    "rating": 82.65917774310337,
+    "release_dates": [
+      {
+        "id": 305180,
+        "date": 1631664000
+      },
+      {
+        "id": 305181,
+        "date": 1631664000
+      },
+      {
+        "id": 306342,
+        "date": 1631664000
+      },
+      {
+        "id": 306343,
+        "date": 1631664000
+      },
+      {
+        "id": 306344,
+        "date": 1631664000
+      }
+    ]
+  },
+  {
+    "id": 25935,
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "The Artful Escape",
+    "rating": 82.65456992866872,
+    "release_dates": [
+      {
+        "id": 300991,
+        "date": 1631145600
+      },
+      {
+        "id": 300992,
+        "date": 1631145600
+      },
+      {
+        "id": 300993,
+        "date": 1631145600
+      },
+      {
+        "id": 337247,
+        "date": 1643068800
+      },
+      {
+        "id": 337248,
+        "date": 1643068800
+      },
+      {
+        "id": 337249,
+        "date": 1643068800
+      }
+    ]
+  },
+  {
+    "id": 121894,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Black Book",
+    "rating": 82.61948543592062,
+    "release_dates": [
+      {
+        "id": 300947,
+        "date": 1628553600
+      },
+      {
+        "id": 300948,
+        "date": 1628553600
+      },
+      {
+        "id": 300949,
+        "date": 1628553600
+      },
+      {
+        "id": 300950,
+        "date": 1628553600
+      },
+      {
+        "id": 435878
+      }
+    ]
+  },
+  {
+    "id": 138569,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Tormented Souls",
+    "rating": 82.53945822270829,
+    "release_dates": [
+      {
+        "id": 306825,
+        "date": 1630022400
+      },
+      {
+        "id": 306865,
+        "date": 1630022400
+      },
+      {
+        "id": 309379,
+        "date": 1630972800
+      },
+      {
+        "id": 343937,
+        "date": 1649894400
+      },
+      {
+        "id": 343938,
+        "date": 1645747200
+      },
+      {
+        "id": 343939,
+        "date": 1645747200
+      }
+    ]
+  },
+  {
+    "id": 180960,
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Kid A Mnesia Exhibition",
+    "rating": 82.51054335001457,
+    "release_dates": [
+      {
+        "id": 325728,
+        "date": 1637193600
+      },
+      {
+        "id": 325729,
+        "date": 1637193600
+      },
+      {
+        "id": 325730,
+        "date": 1637193600
+      }
+    ]
+  },
+  {
+    "id": 152168,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Archvale",
+    "rating": 82.19971250445903,
+    "release_dates": [
+      {
+        "id": 328246,
+        "date": 1638403200
+      },
+      {
+        "id": 328247,
+        "date": 1638403200
+      },
+      {
+        "id": 340313,
+        "date": 1638403200
+      }
+    ]
+  },
+  {
+    "id": 103281,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Halo Infinite",
+    "rating": 82.10922163624727,
+    "release_dates": [
+      {
+        "id": 506240,
+        "date": 1638921600
+      },
+      {
+        "id": 506241,
+        "date": 1638921600
+      },
+      {
+        "id": 506242,
+        "date": 1636934400
+      },
+      {
+        "id": 506243,
+        "date": 1638921600
+      },
+      {
+        "id": 506244,
+        "date": 1636934400
+      }
+    ]
+  },
+  {
+    "id": 171768,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Voice of Cards: The Isle Dragon Roars",
+    "rating": 82.10616929405775,
+    "release_dates": [
+      {
+        "id": 313017,
+        "date": 1635379200
+      },
+      {
+        "id": 313206,
+        "date": 1635379200
+      },
+      {
+        "id": 313207,
+        "date": 1635379200
+      },
+      {
+        "id": 339256,
+        "date": 1635292800
+      }
+    ]
+  },
+  {
+    "id": 119342,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Chivalry 2",
+    "rating": 82.05090236693478,
+    "release_dates": [
+      {
+        "id": 228259,
+        "date": 1623110400
+      },
+      {
+        "id": 228260,
+        "date": 1623110400
+      },
+      {
+        "id": 228261,
+        "date": 1623110400
+      },
+      {
+        "id": 228262,
+        "date": 1623110400
+      },
+      {
+        "id": 251687,
+        "date": 1624492800
+      },
+      {
+        "id": 251688,
+        "date": 1624492800
+      },
+      {
+        "id": 251689,
+        "date": 1624492800
+      },
+      {
+        "id": 416988,
+        "date": 1623110400
+      }
+    ]
+  },
+  {
+    "id": 145099,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Death's Door",
+    "rating": 81.8091078403532,
+    "release_dates": [
+      {
+        "id": 253603,
+        "date": 1626739200
+      },
+      {
+        "id": 253604,
+        "date": 1626739200
+      },
+      {
+        "id": 253605,
+        "date": 1626739200
+      },
+      {
+        "id": 322310,
+        "date": 1637625600
+      },
+      {
+        "id": 322311,
+        "date": 1637625600
+      },
+      {
+        "id": 322350,
+        "date": 1637625600
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy IV",
+    "rating": 81.97481360850958,
+    "release_dates": [
+      {
+        "id": 130584,
+        "date": 1198108800
+      },
+      {
+        "id": 130585,
+        "date": 1220572800
+      },
+      {
+        "id": 130586,
+        "date": 1410912000
+      },
+      {
+        "id": 130588,
+        "date": 1355875200
+      },
+      {
+        "id": 139435,
+        "date": 1216684800
+      },
+      {
+        "id": 363484,
+        "date": 1370131200
+      }
+    ]
+  },
+  {
+    "id": 187506,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Spiritfarer: Farewell Edition",
+    "rating": 81.36836309040255,
+    "release_dates": [
+      {
+        "id": 338562,
+        "date": 1639353600
+      },
+      {
+        "id": 373201,
+        "date": 1639353600
+      },
+      {
+        "id": 373202,
+        "date": 1639353600
+      },
+      {
+        "id": 373203,
+        "date": 1639353600
+      },
+      {
+        "id": 373204,
+        "date": 1639353600
+      }
+    ]
+  },
+  {
+    "id": 119270,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Tales of Arise",
+    "rating": 81.3589769715717,
+    "release_dates": [
+      {
+        "id": 240019,
+        "date": 1631232000
+      },
+      {
+        "id": 240020,
+        "date": 1631232000
+      },
+      {
+        "id": 240021,
+        "date": 1631232000
+      },
+      {
+        "id": 240023,
+        "date": 1631232000
+      },
+      {
+        "id": 327778,
+        "date": 1631232000
+      }
+    ]
+  },
+  {
+    "id": 138950,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Monster Hunter Rise",
+    "rating": 81.33480108863685,
+    "release_dates": [
+      {
+        "id": 211037,
+        "date": 1616716800
+      },
+      {
+        "id": 314229,
+        "date": 1641945600
+      },
+      {
+        "id": 428648,
+        "date": 1674172800
+      },
+      {
+        "id": 428649,
+        "date": 1674172800
+      },
+      {
+        "id": 428695,
+        "date": 1674172800
+      },
+      {
+        "id": 428697,
+        "date": 1674172800
+      }
+    ]
+  },
+  {
+    "id": 152249,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Marvel's Guardians of the Galaxy",
+    "rating": 81.09242265493867,
+    "release_dates": [
+      {
+        "id": 289652,
+        "date": 1635206400
+      },
+      {
+        "id": 289653,
+        "date": 1635206400
+      },
+      {
+        "id": 289654,
+        "date": 1635206400
+      },
+      {
+        "id": 289655,
+        "date": 1635206400
+      },
+      {
+        "id": 289656,
+        "date": 1635206400
+      }
+    ]
+  },
+  {
+    "id": 144731,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Doom Eternal: The Ancient Gods - Part Two",
+    "rating": 80.9796267179808,
+    "release_dates": [
+      {
+        "id": 234301,
+        "date": 1616025600
+      },
+      {
+        "id": 234302,
+        "date": 1616025600
+      },
+      {
+        "id": 234303,
+        "date": 1616025600
+      },
+      {
+        "id": 234304,
+        "date": 1616025600
+      },
+      {
+        "id": 234305,
+        "date": 1616025600
+      },
+      {
+        "id": 239730,
+        "date": 1616025600
+      },
+      {
+        "id": 452182,
+        "date": 1629936000
+      }
+    ]
+  },
+  {
+    "id": 155796,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Growing Up",
+    "rating": 80.90050531869372,
+    "release_dates": [
+      {
+        "id": 319768,
+        "date": 1634169600
+      },
+      {
+        "id": 357374,
+        "date": 1651017600
+      }
+    ]
+  },
+  {
+    "id": 134161,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Sherlock Holmes: Chapter One",
+    "rating": 80.89596141382016,
+    "release_dates": [
+      {
+        "id": 311464,
+        "date": 1637020800
+      },
+      {
+        "id": 311465,
+        "date": 1637020800
+      },
+      {
+        "id": 354990,
+        "date": 1651104000
+      },
+      {
+        "id": 447218,
+        "date": 1637020800
+      }
+    ]
+  },
+  {
+    "id": 139078,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Dyson Sphere Program",
+    "rating": 80.74427401069849,
+    "release_dates": [
+      {
+        "id": 225724,
+        "date": 1611187200
+      },
+      {
+        "id": 390524,
+        "date": 1610496000
+      },
+      {
+        "id": 390525,
+        "date": 1665619200
+      }
+    ]
+  },
+  {
+    "id": 28489,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Ready or Not",
+    "rating": 80.54672056182063,
+    "release_dates": [
+      {
+        "id": 475773,
+        "date": 1639699200
+      }
+    ]
+  },
+  {
+    "id": 141192,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "name": "NEO: The World Ends with You",
+    "rating": 80.50652941604987,
+    "release_dates": [
+      {
+        "id": 237751,
+        "date": 1627344000
+      },
+      {
+        "id": 237752,
+        "date": 1627344000
+      },
+      {
+        "id": 339170,
+        "date": 1627257600
+      },
+      {
+        "id": 416658,
+        "date": 1632873600
+      }
+    ]
+  },
+  {
+    "id": 186725,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Vampire Survivors",
+    "rating": 80.48280693205098,
+    "release_dates": [
+      {
+        "id": 335048,
+        "date": 1639699200
+      },
+      {
+        "id": 375460,
+        "date": 1643673600
+      },
+      {
+        "id": 424078,
+        "date": 1668038400
+      },
+      {
+        "id": 424079,
+        "date": 1668038400
+      },
+      {
+        "id": 429521,
+        "date": 1670457600
+      },
+      {
+        "id": 429522,
+        "date": 1670457600
+      },
+      {
+        "id": 485164,
+        "date": 1692230400
+      }
+    ]
+  },
+  {
+    "id": 143292,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metro Exodus: Enhanced Edition",
+    "rating": 80.29913049633674,
+    "release_dates": [
+      {
+        "id": 243047,
+        "date": 1623974400
+      },
+      {
+        "id": 243048,
+        "date": 1623974400
+      },
+      {
+        "id": 243049,
+        "date": 1620259200
+      }
+    ]
+  },
+  {
+    "id": 121084,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "In Sound Mind",
+    "rating": 80.27172572206523,
+    "release_dates": [
+      {
+        "id": 299141,
+        "date": 1632787200
+      },
+      {
+        "id": 299142,
+        "date": 1632787200
+      },
+      {
+        "id": 299143,
+        "date": 1632787200
+      },
+      {
+        "id": 445602,
+        "date": 1665446400
+      }
+    ]
+  },
+  {
+    "id": 132422,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Fights in Tight Spaces",
+    "rating": 80.27154802441359,
+    "release_dates": [
+      {
+        "id": 229023,
+        "date": 1614124800
+      },
+      {
+        "id": 230523,
+        "date": 1614124800
+      },
+      {
+        "id": 475121,
+        "date": 1684972800
+      },
+      {
+        "id": 481256,
+        "date": 1684972800
+      }
+    ]
+  },
+  {
+    "id": 143502,
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "The Ratchelor: A Rat Dating Sim",
+    "rating": 80.24532422749684,
+    "release_dates": [
+      {
+        "id": 228624,
+        "date": 1613260800
+      }
+    ]
+  },
+  {
+    "id": 252168,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Mir Tankov",
+    "rating": 100.0,
+    "release_dates": [
+      {
+        "id": 481291,
+        "date": 1648771200
+      }
+    ]
+  },
+  {
+    "id": 192731,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Burnhouse Lane",
+    "rating": 100.0,
+    "release_dates": [
+      {
+        "id": 484265,
+        "date": 1669939200
+      },
+      {
+        "id": 484266,
+        "date": 1687996800
+      },
+      {
+        "id": 484267,
+        "date": 1687996800
+      },
+      {
+        "id": 484268,
+        "date": 1687996800
+      },
+      {
+        "id": 484269,
+        "date": 1687996800
+      },
+      {
+        "id": 484270,
+        "date": 1687996800
+      },
+      {
+        "id": 486109,
+        "date": 1687996800
+      },
+      {
+        "id": 487206,
+        "date": 1687996800
+      },
+      {
+        "id": 489069,
+        "date": 1687996800
+      }
+    ]
+  },
+  {
+    "id": 204360,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Goat Simulator 3",
+    "rating": 99.42169996363268,
+    "release_dates": [
+      {
+        "id": 376494,
+        "date": 1668643200
+      },
+      {
+        "id": 376495,
+        "date": 1668643200
+      },
+      {
+        "id": 376496,
+        "date": 1668643200
+      }
+    ]
+  },
+  {
+    "id": 224262,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Fear & Hunger 2: Termina",
+    "rating": 97.05732778612625,
+    "release_dates": [
+      {
+        "id": 522790,
+        "date": 1670544000
+      }
+    ]
+  },
+  {
+    "id": 113119,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Stanley Parable: Ultra Deluxe",
+    "rating": 97.02519140433041,
+    "release_dates": [
+      {
+        "id": 350739,
+        "date": 1651017600
+      },
+      {
+        "id": 350740,
+        "date": 1651017600
+      },
+      {
+        "id": 350741,
+        "date": 1651017600
+      },
+      {
+        "id": 350742,
+        "date": 1651017600
+      },
+      {
+        "id": 350743,
+        "date": 1651017600
+      },
+      {
+        "id": 350744,
+        "date": 1651017600
+      },
+      {
+        "id": 350745,
+        "date": 1651017600
+      },
+      {
+        "id": 350746,
+        "date": 1651017600
+      }
+    ]
+  },
+  {
+    "id": 119133,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Elden Ring",
+    "rating": 95.79622756067664,
+    "release_dates": [
+      {
+        "id": 320703,
+        "date": 1645747200
+      },
+      {
+        "id": 320704,
+        "date": 1645747200
+      },
+      {
+        "id": 320705,
+        "date": 1645747200
+      },
+      {
+        "id": 320706,
+        "date": 1645747200
+      },
+      {
+        "id": 320707,
+        "date": 1645747200
+      }
+    ]
+  },
+  {
+    "id": 204350,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Last of Us Part I",
+    "rating": 94.95729864709324,
+    "release_dates": [
+      {
+        "id": 394572,
+        "date": 1661990400
+      },
+      {
+        "id": 449155,
+        "date": 1679961600
+      }
+    ]
+  },
+  {
+    "id": 196770,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Sunflower Land",
+    "rating": 94.64105947319553,
+    "release_dates": [
+      {
+        "id": 352637,
+        "date": 1649980800
+      }
+    ]
+  },
+  {
+    "id": 166722,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "The Case of the Golden Idol",
+    "rating": 94.62357554464303,
+    "release_dates": [
+      {
+        "id": 392663,
+        "date": 1665619200
+      },
+      {
+        "id": 436789,
+        "date": 1671667200
+      },
+      {
+        "id": 476161,
+        "date": 1684972800
+      }
+    ]
+  },
+  {
+    "id": 133748,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Stalcraft",
+    "rating": 94.0,
+    "release_dates": [
+      {
+        "id": 428043,
+        "date": 1670544000
+      }
+    ]
+  },
+  {
+    "id": 191270,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Stream Pairs",
+    "rating": 91.66666666666666,
+    "release_dates": [
+      {
+        "id": 343389,
+        "date": 1643932800
+      }
+    ]
+  },
+  {
+    "id": 168668,
+    "name": "Uncharted 4: A Thief's End - Remastered",
+    "rating": 91.05192187077576,
+    "release_dates": [
+      {
+        "id": 346531,
+        "date": 1643328000
+      },
+      {
+        "id": 403220,
+        "date": 1666137600
+      }
+    ]
+  },
+  {
+    "id": 180154,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Islets",
+    "rating": 90.78453884424034,
+    "release_dates": [
+      {
+        "id": 381380,
+        "date": 1661299200
+      },
+      {
+        "id": 381381,
+        "date": 1661299200
+      },
+      {
+        "id": 381382,
+        "date": 1661299200
+      },
+      {
+        "id": 416362,
+        "date": 1661299200
+      }
+    ]
+  },
+  {
+    "id": 199418,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Dedalium",
+    "rating": 90.76923076923077,
+    "release_dates": [
+      {
+        "id": 356738,
+        "date": 1643587200
+      }
+    ]
+  },
+  {
+    "id": 87520,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "2048 Hex",
+    "rating": 90.0,
+    "release_dates": [
+      {
+        "id": 474115,
+        "date": 1658361600
+      }
+    ]
+  },
+  {
+    "id": 87570,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Duck Run",
+    "rating": 90.0,
+    "release_dates": [
+      {
+        "id": 344823,
+        "date": 1643673600
+      }
+    ]
+  },
+  {
+    "id": 113104,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "name": "The King of Fighters XV",
+    "rating": 89.97947378242209,
+    "release_dates": [
+      {
+        "id": 306422,
+        "date": 1645056000
+      },
+      {
+        "id": 306423,
+        "date": 1645056000
+      },
+      {
+        "id": 306424,
+        "date": 1645056000
+      },
+      {
+        "id": 413913,
+        "date": 1644969600
+      }
+    ]
+  },
+  {
+    "id": 157756,
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Melatonin",
+    "rating": 89.87744136985299,
+    "release_dates": [
+      {
+        "id": 427904,
+        "date": 1671062400
+      },
+      {
+        "id": 435893,
+        "date": 1671667200
+      }
+    ]
+  },
+  {
+    "id": 168670,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted: Legacy of Thieves Collection",
+    "rating": 89.67634108956581,
+    "release_dates": [
+      {
+        "id": 329099,
+        "date": 1643328000
+      },
+      {
+        "id": 390811,
+        "date": 1666137600
+      }
+    ]
+  },
+  {
+    "id": 168669,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted: The Lost Legacy - Remastered",
+    "rating": 89.64337761220675,
+    "release_dates": [
+      {
+        "id": 346508,
+        "date": 1643328000
+      },
+      {
+        "id": 403221,
+        "date": 1666137600
+      }
+    ]
+  },
+  {
+    "id": 212584,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Tactics Ogre: Reborn",
+    "rating": 89.41006341331259,
+    "release_dates": [
+      {
+        "id": 377653,
+        "date": 1668124800
+      },
+      {
+        "id": 377654,
+        "date": 1668124800
+      },
+      {
+        "id": 377655,
+        "date": 1668124800
+      },
+      {
+        "id": 377656,
+        "date": 1668124800
+      }
+    ]
+  },
+  {
+    "id": 210917,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Cuphead & The Delicious Last Course",
+    "rating": 89.03527936363113,
+    "release_dates": [
+      {
+        "id": 377193,
+        "date": 1656547200
+      },
+      {
+        "id": 393833,
+        "date": 1656547200
+      },
+      {
+        "id": 396619
+      },
+      {
+        "id": 396673,
+        "date": 1656547200
+      }
+    ]
+  },
+  {
+    "id": 143612,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Neon White",
+    "rating": 88.87157725318595,
+    "release_dates": [
+      {
+        "id": 483410,
+        "date": 1655337600
+      },
+      {
+        "id": 483411,
+        "date": 1655337600
+      },
+      {
+        "id": 483412,
+        "date": 1670889600
+      },
+      {
+        "id": 483413,
+        "date": 1670889600
+      }
+    ]
+  },
+  {
+    "id": 204623,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Pentiment",
+    "rating": 88.59318321672228,
+    "release_dates": [
+      {
+        "id": 382868,
+        "date": 1668470400
+      },
+      {
+        "id": 382870,
+        "date": 1668470400
+      },
+      {
+        "id": 425274,
+        "date": 1668470400
+      }
+    ]
+  },
+  {
+    "id": 196789,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Supremacy: The Metaverse Game",
+    "rating": 87.84260515603799,
+    "release_dates": [
+      {
+        "id": 352655,
+        "date": 1645488000
+      }
+    ]
+  },
+  {
+    "id": 188671,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Entropy: Zero 2",
+    "rating": 87.54540991654395,
+    "release_dates": [
+      {
+        "id": 376668,
+        "date": 1660953600
+      }
+    ]
+  },
+  {
+    "id": 103287,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Cuphead: The Delicious Last Course",
+    "rating": 87.46108529520791,
+    "release_dates": [
+      {
+        "id": 329564,
+        "date": 1656547200
+      },
+      {
+        "id": 329565,
+        "date": 1656547200
+      },
+      {
+        "id": 329566,
+        "date": 1656547200
+      },
+      {
+        "id": 329567,
+        "date": 1656547200
+      },
+      {
+        "id": 329568,
+        "date": 1656547200
+      }
+    ]
+  },
+  {
+    "id": 158985,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Final Fantasy VI",
+    "rating": 87.40684702650547,
+    "release_dates": [
+      {
+        "id": 343903,
+        "date": 1645574400
+      },
+      {
+        "id": 343904,
+        "date": 1645574400
+      },
+      {
+        "id": 343905,
+        "date": 1645574400
+      },
+      {
+        "id": 465793,
+        "date": 1681862400
+      },
+      {
+        "id": 465794,
+        "date": 1681862400
+      }
+    ]
+  },
+  {
+    "id": 115078,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "name": "Predecessor",
+    "rating": 87.22543352601156,
+    "release_dates": [
+      {
+        "id": 425853,
+        "date": 1669852800
+      }
+    ]
+  },
+  {
+    "id": 112874,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Horizon Forbidden West",
+    "rating": 86.9966054380969,
+    "release_dates": [
+      {
+        "id": 306302,
+        "date": 1645142400
+      },
+      {
+        "id": 306303,
+        "date": 1645142400
+      },
+      {
+        "id": 520610,
+        "date": 1735603200
+      }
+    ]
+  },
+  {
+    "id": 133512,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Peglin",
+    "rating": 86.2514310077969,
+    "release_dates": [
+      {
+        "id": 503108,
+        "date": 1650844800
+      },
+      {
+        "id": 503109,
+        "date": 1650844800
+      },
+      {
+        "id": 503110,
+        "date": 1650844800
+      },
+      {
+        "id": 503111,
+        "date": 1650844800
+      }
+    ]
+  },
+  {
+    "id": 153808,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "AI: The Somnium Files - Nirvana Initiative",
+    "rating": 86.2358575299883,
+    "release_dates": [
+      {
+        "id": 342642,
+        "date": 1655942400
+      },
+      {
+        "id": 342643,
+        "date": 1655942400
+      },
+      {
+        "id": 342644,
+        "date": 1655942400
+      },
+      {
+        "id": 342645,
+        "date": 1655942400
+      },
+      {
+        "id": 342646,
+        "date": 1656028800
+      },
+      {
+        "id": 342647,
+        "date": 1656028800
+      },
+      {
+        "id": 342648,
+        "date": 1656028800
+      },
+      {
+        "id": 342649,
+        "date": 1656028800
+      },
+      {
+        "id": 342650,
+        "date": 1656028800
+      },
+      {
+        "id": 342651,
+        "date": 1656028800
+      },
+      {
+        "id": 342761,
+        "date": 1656028800
+      }
+    ]
+  },
+  {
+    "id": 143610,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Triangle Strategy",
+    "rating": 85.43615843222682,
+    "release_dates": [
+      {
+        "id": 313042,
+        "date": 1646352000
+      },
+      {
+        "id": 404154,
+        "date": 1665619200
+      }
+    ]
+  },
+  {
+    "id": 23733,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Tunic",
+    "rating": 85.24081146929771,
+    "release_dates": [
+      {
+        "id": 329545,
+        "date": 1647388800
+      },
+      {
+        "id": 329546,
+        "date": 1647388800
+      },
+      {
+        "id": 329547,
+        "date": 1647388800
+      },
+      {
+        "id": 329548,
+        "date": 1647388800
+      },
+      {
+        "id": 362556,
+        "date": 1664236800
+      },
+      {
+        "id": 362557,
+        "date": 1664236800
+      },
+      {
+        "id": 388903,
+        "date": 1664236800
+      }
+    ]
+  },
+  {
+    "id": 152288,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Immortality",
+    "rating": 85.07217375746839,
+    "release_dates": [
+      {
+        "id": 511330,
+        "date": 1668556800
+      },
+      {
+        "id": 511331,
+        "date": 1668556800
+      },
+      {
+        "id": 511332,
+        "date": 1661817600
+      },
+      {
+        "id": 511333,
+        "date": 1661817600
+      },
+      {
+        "id": 511334,
+        "date": 1680652800
+      }
+    ]
+  },
+  {
+    "id": 152242,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "A Plague Tale: Requiem",
+    "rating": 84.96393543794844,
+    "release_dates": [
+      {
+        "id": 368109,
+        "date": 1666051200
+      },
+      {
+        "id": 395485,
+        "date": 1666051200
+      },
+      {
+        "id": 395486,
+        "date": 1666051200
+      }
+    ]
+  },
+  {
+    "id": 186597,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Strange Horticulture",
+    "rating": 84.65841495053233,
+    "release_dates": [
+      {
+        "id": 499191,
+        "date": 1669075200
+      },
+      {
+        "id": 499192,
+        "date": 1658966400
+      },
+      {
+        "id": 499193,
+        "date": 1642723200
+      },
+      {
+        "id": 499194,
+        "date": 1691107200
+      },
+      {
+        "id": 499195,
+        "date": 1691107200
+      },
+      {
+        "id": 501053,
+        "date": 1691107200
+      },
+      {
+        "id": 501054,
+        "date": 1691107200
+      }
+    ]
+  },
+  {
+    "id": 15835,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Live A Live",
+    "rating": 80.3146267910983,
+    "release_dates": [
+      {
+        "id": 43508,
+        "date": 778464000
+      }
+    ]
+  },
+  {
+    "id": 191411,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Xenoblade Chronicles 3",
+    "rating": 84.45890789066907,
+    "release_dates": [
+      {
+        "id": 354757,
+        "date": 1659052800
+      }
+    ]
+  },
+  {
+    "id": 134831,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Destiny 2: The Witch Queen",
+    "rating": 84.22728102976694,
+    "release_dates": [
+      {
+        "id": 306082,
+        "date": 1645488000
+      },
+      {
+        "id": 306083,
+        "date": 1645488000
+      },
+      {
+        "id": 306084,
+        "date": 1645488000
+      },
+      {
+        "id": 306133,
+        "date": 1645488000
+      },
+      {
+        "id": 306134,
+        "date": 1645488000
+      }
+    ]
+  },
+  {
+    "id": 117271,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Chained Echoes",
+    "rating": 83.6138861497164,
+    "release_dates": [
+      {
+        "id": 429104,
+        "date": 1670457600
+      },
+      {
+        "id": 429105,
+        "date": 1670457600
+      },
+      {
+        "id": 429106,
+        "date": 1670457600
+      },
+      {
+        "id": 429107,
+        "date": 1670457600
+      },
+      {
+        "id": 429108,
+        "date": 1670457600
+      },
+      {
+        "id": 429109,
+        "date": 1670457600
+      }
+    ]
+  },
+  {
+    "id": 127644,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Treasure of Nadia",
+    "rating": 83.47263998725126,
+    "release_dates": [
+      {
+        "id": 344888,
+        "date": 1644969600
+      },
+      {
+        "id": 368202,
+        "date": 1644969600
+      },
+      {
+        "id": 368203,
+        "date": 1644969600
+      },
+      {
+        "id": 368204,
+        "date": 1644969600
+      }
+    ]
+  },
+  {
+    "id": 152271,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Citizen Sleeper",
+    "rating": 83.44996285993629,
+    "release_dates": [
+      {
+        "id": 351324,
+        "date": 1651708800
+      },
+      {
+        "id": 351325,
+        "date": 1651708800
+      },
+      {
+        "id": 351326,
+        "date": 1651708800
+      },
+      {
+        "id": 351327,
+        "date": 1651708800
+      },
+      {
+        "id": 447040,
+        "date": 1651708800
+      },
+      {
+        "id": 460183,
+        "date": 1680220800
+      },
+      {
+        "id": 460184,
+        "date": 1680220800
+      }
+    ]
+  },
+  {
+    "id": 143574,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Planet Crafter",
+    "rating": 82.83148441627047,
+    "release_dates": [
+      {
+        "id": 348768,
+        "date": 1648080000
+      }
+    ]
+  },
+  {
+    "id": 243611,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Mir Korabley",
+    "rating": 82.5,
+    "release_dates": [
+      {
+        "id": 464683,
+        "date": 1665532800
+      }
+    ]
+  },
+  {
+    "id": 144022,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Sifu",
+    "rating": 82.28775648082274,
+    "release_dates": [
+      {
+        "id": 325753,
+        "date": 1644278400
+      },
+      {
+        "id": 325754,
+        "date": 1644278400
+      },
+      {
+        "id": 325755,
+        "date": 1644278400
+      },
+      {
+        "id": 389053,
+        "date": 1667865600
+      },
+      {
+        "id": 457241,
+        "date": 1679961600
+      },
+      {
+        "id": 457242,
+        "date": 1679961600
+      }
+    ]
+  },
+  {
+    "id": 110248,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Stray",
+    "rating": 82.26174780981681,
+    "release_dates": [
+      {
+        "id": 362549,
+        "date": 1658188800
+      },
+      {
+        "id": 362550,
+        "date": 1658188800
+      },
+      {
+        "id": 362562,
+        "date": 1658188800
+      },
+      {
+        "id": 481876,
+        "date": 1703980800
+      },
+      {
+        "id": 487162,
+        "date": 1691625600
+      },
+      {
+        "id": 487163,
+        "date": 1691625600
+      }
+    ]
+  },
+  {
+    "id": 195517,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Return to Monkey Island",
+    "rating": 82.18082685648159,
+    "release_dates": [
+      {
+        "id": 499197,
+        "date": 1663545600
+      },
+      {
+        "id": 499198,
+        "date": 1663545600
+      },
+      {
+        "id": 499199,
+        "date": 1663545600
+      },
+      {
+        "id": 499200,
+        "date": 1663545600
+      },
+      {
+        "id": 499201,
+        "date": 1667865600
+      },
+      {
+        "id": 499202,
+        "date": 1667865600
+      },
+      {
+        "id": 499203,
+        "date": 1690416000
+      },
+      {
+        "id": 499204,
+        "date": 1690416000
+      }
+    ]
+  },
+  {
+    "id": 172427,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Kirby and the Forgotten Land",
+    "rating": 82.0820362425228,
+    "release_dates": [
+      {
+        "id": 335285,
+        "date": 1648166400
+      }
+    ]
+  },
+  {
+    "id": 143613,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Splatoon 3",
+    "rating": 82.01129574359413,
+    "release_dates": [
+      {
+        "id": 355146,
+        "date": 1662681600
+      }
+    ]
+  },
+  {
+    "id": 203722,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dave the Diver",
+    "rating": 81.91824901565127,
+    "release_dates": [
+      {
+        "id": 482017,
+        "date": 1666828800
+      },
+      {
+        "id": 482018,
+        "date": 1666828800
+      },
+      {
+        "id": 482019,
+        "date": 1687910400
+      },
+      {
+        "id": 482020,
+        "date": 1687910400
+      },
+      {
+        "id": 516102,
+        "date": 1698278400
+      }
+    ]
+  },
+  {
+    "id": 6341,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Dwarf Fortress",
+    "rating": 87.40509017097833,
+    "release_dates": [
+      {
+        "id": 165235,
+        "date": 1154995200
+      },
+      {
+        "id": 165236,
+        "date": 1154995200
+      },
+      {
+        "id": 165237,
+        "date": 1154995200
+      }
+    ]
+  },
+  {
+    "id": 20084,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Hitman Trilogy",
+    "release_dates": [
+      {
+        "id": 89552,
+        "date": 1184889600
+      },
+      {
+        "id": 130082,
+        "date": 1184889600
+      }
+    ]
+  },
+  {
+    "id": 152267,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Tinykin",
+    "rating": 81.36117020869315,
+    "release_dates": [
+      {
+        "id": 367245,
+        "date": 1661817600
+      },
+      {
+        "id": 367246,
+        "date": 1661817600
+      },
+      {
+        "id": 367247,
+        "date": 1661817600
+      },
+      {
+        "id": 367248,
+        "date": 1661817600
+      },
+      {
+        "id": 367249,
+        "date": 1661817600
+      },
+      {
+        "id": 367301,
+        "date": 1661817600
+      }
+    ]
+  },
+  {
+    "id": 191747,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Wylde Flowers",
+    "rating": 81.31332563806593,
+    "release_dates": [
+      {
+        "id": 357104,
+        "date": 1645142400
+      },
+      {
+        "id": 425334,
+        "date": 1663718400
+      },
+      {
+        "id": 445653,
+        "date": 1663632000
+      }
+    ]
+  },
+  {
+    "id": 212871,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "DeFi Land",
+    "rating": 80.93504344228381,
+    "release_dates": [
+      {
+        "id": 378539,
+        "date": 1643673600
+      },
+      {
+        "id": 378540,
+        "date": 1674432000
+      },
+      {
+        "id": 378541,
+        "date": 1674432000
+      }
+    ]
+  },
+  {
+    "id": 152201,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mario + Rabbids Sparks of Hope",
+    "rating": 80.67951790076643,
+    "release_dates": [
+      {
+        "id": 369542,
+        "date": 1666224000
+      },
+      {
+        "id": 369543,
+        "date": 1666224000
+      },
+      {
+        "id": 400640,
+        "date": 1669939200
+      }
+    ]
+  },
+  {
+    "id": 101006,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "Gran Turismo 7",
+    "rating": 80.37392354908494,
+    "release_dates": [
+      {
+        "id": 309949,
+        "date": 1646352000
+      },
+      {
+        "id": 309950,
+        "date": 1646352000
+      },
+      {
+        "id": 435788
+      }
+    ]
+  },
+  {
+    "id": 172903,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Supraland: Six Inches Under",
+    "rating": 80.00121294470007,
+    "release_dates": [
+      {
+        "id": 476217,
+        "date": 1642118400
+      },
+      {
+        "id": 476218,
+        "date": 1684368000
+      },
+      {
+        "id": 476219,
+        "date": 1684368000
+      },
+      {
+        "id": 476220,
+        "date": 1684368000
+      },
+      {
+        "id": 476221,
+        "date": 1684368000
+      },
+      {
+        "id": 476222,
+        "date": 1696032000
+      }
+    ]
+  },
+  {
+    "id": 191396,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "name": "Fire Emblem Warriors: Three Hopes",
+    "rating": 80.00118414166919,
+    "release_dates": [
+      {
+        "id": 343800,
+        "date": 1656028800
+      }
+    ]
+  },
+  {
+    "id": 152055,
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Corpse Factory",
+    "rating": 80.0,
+    "release_dates": [
+      {
+        "id": 358559,
+        "date": 1653955200
+      },
+      {
+        "id": 445709,
+        "date": 1656460800
+      }
+    ]
+  },
+  {
+    "id": 202389,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Drainus",
+    "rating": 80.0,
+    "release_dates": [
+      {
+        "id": 360549,
+        "date": 1653177600
+      },
+      {
+        "id": 440544,
+        "date": 1675296000
+      }
+    ]
+  },
+  {
+    "id": 121986,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Dungeons of Edera",
+    "rating": 80.0,
+    "release_dates": [
+      {
+        "id": 376853,
+        "date": 1655337600
+      }
+    ]
+  },
+  {
+    "id": 145089,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Nobody Saves the World",
+    "rating": 79.99951375674657,
+    "release_dates": [
+      {
+        "id": 334676,
+        "date": 1642464000
+      },
+      {
+        "id": 334677,
+        "date": 1642464000
+      },
+      {
+        "id": 334678,
+        "date": 1642464000
+      },
+      {
+        "id": 351290,
+        "date": 1649894400
+      },
+      {
+        "id": 351291,
+        "date": 1649894400
+      },
+      {
+        "id": 351292,
+        "date": 1649894400
+      }
+    ]
+  },
+  {
+    "id": 191405,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Klonoa Phantasy Reverie Series",
+    "rating": 79.95061487349781,
+    "release_dates": [
+      {
+        "id": 344242,
+        "date": 1657238400
+      },
+      {
+        "id": 358139,
+        "date": 1657238400
+      },
+      {
+        "id": 358140,
+        "date": 1657238400
+      },
+      {
+        "id": 358142,
+        "date": 1657238400
+      },
+      {
+        "id": 358143,
+        "date": 1657238400
+      },
+      {
+        "id": 421990,
+        "date": 1657238400
+      }
+    ]
+  },
+  {
+    "id": 144455,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "We Were Here Forever",
+    "rating": 79.94493965317571,
+    "release_dates": [
+      {
+        "id": 350028,
+        "date": 1652140800
+      },
+      {
+        "id": 377033
+      },
+      {
+        "id": 447193,
+        "date": 1675123200
+      },
+      {
+        "id": 447194,
+        "date": 1675123200
+      },
+      {
+        "id": 468846,
+        "date": 1675123200
+      },
+      {
+        "id": 468847,
+        "date": 1675123200
+      }
+    ]
+  },
+  {
+    "id": 122386,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Infernax",
+    "rating": 79.92571277250966,
+    "release_dates": [
+      {
+        "id": 335187,
+        "date": 1644796800
+      },
+      {
+        "id": 336899,
+        "date": 1644796800
+      },
+      {
+        "id": 336900,
+        "date": 1644796800
+      },
+      {
+        "id": 336901,
+        "date": 1644796800
+      },
+      {
+        "id": 336902,
+        "date": 1644796800
+      },
+      {
+        "id": 336903,
+        "date": 1644796800
+      }
+    ]
+  },
+  {
+    "id": 229631,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Babbdi",
+    "rating": 79.87650247995757,
+    "release_dates": [
+      {
+        "id": 433760,
+        "date": 1671667200
+      },
+      {
+        "id": 433761,
+        "date": 1671667200
+      },
+      {
+        "id": 433762,
+        "date": 1671667200
+      }
+    ]
+  },
+  {
+    "id": 196030,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Shotgun King: the Final Checkmate",
+    "rating": 79.86315967025382,
+    "release_dates": [
+      {
+        "id": 507762,
+        "date": 1692835200
+      },
+      {
+        "id": 507763,
+        "date": 1650585600
+      },
+      {
+        "id": 507764,
+        "date": 1692835200
+      },
+      {
+        "id": 508939,
+        "date": 1692835200
+      },
+      {
+        "id": 508940,
+        "date": 1692835200
+      }
+    ]
+  },
+  {
+    "id": 151353,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "PlateUp!",
+    "rating": 79.83797566158006,
+    "release_dates": [
+      {
+        "id": 471308,
+        "date": 1659571200
+      },
+      {
+        "id": 515674,
+        "date": 1698883200
+      },
+      {
+        "id": 515675,
+        "date": 1698883200
+      },
+      {
+        "id": 515676,
+        "date": 1698883200
+      },
+      {
+        "id": 515677,
+        "date": 1698883200
+      },
+      {
+        "id": 515678,
+        "date": 1698883200
+      }
+    ]
+  },
+  {
+    "id": 127350,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Weird West",
+    "rating": 79.82242032288917,
+    "release_dates": [
+      {
+        "id": 498394,
+        "date": 1648684800
+      },
+      {
+        "id": 498395,
+        "date": 1648684800
+      },
+      {
+        "id": 498396,
+        "date": 1651968000
+      },
+      {
+        "id": 498397,
+        "date": 1648684800
+      },
+      {
+        "id": 498398,
+        "date": 1651968000
+      },
+      {
+        "id": 499248,
+        "date": 1648684800
+      }
+    ]
+  },
+  {
+    "id": 118210,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Apex Legends Mobile",
+    "rating": 79.81109105075879,
+    "release_dates": [
+      {
+        "id": 359889,
+        "date": 1652745600
+      },
+      {
+        "id": 359890,
+        "date": 1652745600
+      }
+    ]
+  },
+  {
+    "id": 183125,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Ghostrunner: Project Hel",
+    "rating": 79.8104422529463,
+    "release_dates": [
+      {
+        "id": 342462,
+        "date": 1646265600
+      },
+      {
+        "id": 342463,
+        "date": 1646265600
+      },
+      {
+        "id": 342464,
+        "date": 1646265600
+      },
+      {
+        "id": 342465,
+        "date": 1646265600
+      },
+      {
+        "id": 342466,
+        "date": 1646265600
+      },
+      {
+        "id": 451390,
+        "date": 1649289600
+      }
+    ]
+  },
+  {
+    "id": 146650,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Expeditions: Rome",
+    "rating": 79.77590777256947,
+    "release_dates": [
+      {
+        "id": 329420,
+        "date": 1642636800
+      }
+    ]
+  },
+  {
+    "id": 152258,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Ixion",
+    "rating": 79.7675319643549,
+    "release_dates": [
+      {
+        "id": 421669,
+        "date": 1670371200
+      }
+    ]
+  },
+  {
+    "id": 198506,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Disney Dreamlight Valley",
+    "rating": 79.75881146623196,
+    "release_dates": [
+      {
+        "id": 369500,
+        "date": 1662422400
+      },
+      {
+        "id": 369579,
+        "date": 1662422400
+      },
+      {
+        "id": 370408,
+        "date": 1662422400
+      },
+      {
+        "id": 370409,
+        "date": 1662422400
+      },
+      {
+        "id": 370410,
+        "date": 1662422400
+      },
+      {
+        "id": 370411,
+        "date": 1662422400
+      },
+      {
+        "id": 481877
+      }
+    ]
+  },
+  {
+    "id": 218277,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Portal with RTX",
+    "rating": 79.71076578504292,
+    "release_dates": [
+      {
+        "id": 429079,
+        "date": 1670457600
+      }
+    ]
+  },
+  {
+    "id": 138884,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "You Suck at Parking",
+    "rating": 79.71060152283795,
+    "release_dates": [
+      {
+        "id": 385131,
+        "date": 1663113600
+      },
+      {
+        "id": 385132,
+        "date": 1663113600
+      },
+      {
+        "id": 385133,
+        "date": 1663113600
+      },
+      {
+        "id": 388596,
+        "date": 1703980800
+      },
+      {
+        "id": 388597,
+        "date": 1703980800
+      },
+      {
+        "id": 500689,
+        "date": 1694476800
+      }
+    ]
+  },
+  {
+    "id": 145782,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "OlliOlli World",
+    "rating": 79.6262520773915,
+    "release_dates": [
+      {
+        "id": 330505,
+        "date": 1644278400
+      },
+      {
+        "id": 330506,
+        "date": 1644278400
+      },
+      {
+        "id": 330507,
+        "date": 1644278400
+      },
+      {
+        "id": 330508,
+        "date": 1644278400
+      },
+      {
+        "id": 330509,
+        "date": 1644278400
+      },
+      {
+        "id": 335255,
+        "date": 1644278400
+      }
+    ]
+  },
+  {
+    "id": 119305,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "LEGO Star Wars: The Skywalker Saga",
+    "rating": 79.55373876835333,
+    "release_dates": [
+      {
+        "id": 338429,
+        "date": 1649116800
+      },
+      {
+        "id": 338430,
+        "date": 1649116800
+      },
+      {
+        "id": 338431,
+        "date": 1649116800
+      },
+      {
+        "id": 338432,
+        "date": 1649116800
+      },
+      {
+        "id": 338433,
+        "date": 1649116800
+      },
+      {
+        "id": 338434,
+        "date": 1649116800
+      }
+    ]
+  },
+  {
+    "id": 76888,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "name": "Bayonetta 3",
+    "rating": 79.55110010878818,
+    "release_dates": [
+      {
+        "id": 372718,
+        "date": 1666915200
+      }
+    ]
+  },
+  {
+    "id": 135995,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      }
+    ],
+    "name": "As Dusk Falls",
+    "rating": 79.52411990464589,
+    "release_dates": [
+      {
+        "id": 365228,
+        "date": 1658188800
+      },
+      {
+        "id": 365229,
+        "date": 1658188800
+      },
+      {
+        "id": 365230,
+        "date": 1658188800
+      }
+    ]
+  },
+  {
+    "id": 145780,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "name": "WWE 2K22",
+    "rating": 79.47597123545178,
+    "release_dates": [
+      {
+        "id": 338447,
+        "date": 1646956800
+      },
+      {
+        "id": 338448,
+        "date": 1646956800
+      },
+      {
+        "id": 338449,
+        "date": 1646956800
+      },
+      {
+        "id": 338450,
+        "date": 1646956800
+      },
+      {
+        "id": 338451,
+        "date": 1646956800
+      }
+    ]
+  },
+  {
+    "id": 133131,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "The Mortuary Assistant",
+    "rating": 79.32379688632126,
+    "release_dates": [
+      {
+        "id": 376951,
+        "date": 1659398400
+      },
+      {
+        "id": 469745,
+        "date": 1681948800
+      }
+    ]
+  },
+  {
+    "id": 196230,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Stacklands",
+    "rating": 79.3156755659371,
+    "release_dates": [
+      {
+        "id": 354230,
+        "date": 1649376000
+      },
+      {
+        "id": 354231,
+        "date": 1649376000
+      }
+    ]
+  },
+  {
+    "id": 103244,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Signalis",
+    "rating": 79.10487670701337,
+    "release_dates": [
+      {
+        "id": 364775,
+        "date": 1666828800
+      },
+      {
+        "id": 364921,
+        "date": 1666828800
+      },
+      {
+        "id": 364922,
+        "date": 1666828800
+      },
+      {
+        "id": 364923,
+        "date": 1666828800
+      },
+      {
+        "id": 416424,
+        "date": 1666828800
+      }
+    ]
+  },
+  {
+    "id": 143114,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Total War: Warhammer III",
+    "rating": 79.04352828335402,
+    "release_dates": [
+      {
+        "id": 324818,
+        "date": 1645056000
+      },
+      {
+        "id": 324819,
+        "date": 1645056000
+      },
+      {
+        "id": 324820,
+        "date": 1645056000
+      }
+    ]
+  },
+  {
+    "id": 134560,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal: Hellsinger",
+    "rating": 78.90398428801312,
+    "release_dates": [
+      {
+        "id": 364135,
+        "date": 1663200000
+      },
+      {
+        "id": 364136,
+        "date": 1663200000
+      },
+      {
+        "id": 364137,
+        "date": 1663200000
+      },
+      {
+        "id": 429726,
+        "date": 1670457600
+      },
+      {
+        "id": 430673,
+        "date": 1670457600
+      }
+    ]
+  },
+  {
+    "id": 105623,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Endling: Extinction is Forever",
+    "rating": 78.80685314198858,
+    "release_dates": [
+      {
+        "id": 365776,
+        "date": 1658188800
+      },
+      {
+        "id": 365790,
+        "date": 1658188800
+      },
+      {
+        "id": 365791,
+        "date": 1658188800
+      },
+      {
+        "id": 365792,
+        "date": 1658188800
+      },
+      {
+        "id": 416573,
+        "date": 1658188800
+      },
+      {
+        "id": 422606,
+        "date": 1667433600
+      },
+      {
+        "id": 446786,
+        "date": 1675728000
+      },
+      {
+        "id": 446787,
+        "date": 1675728000
+      }
+    ]
+  },
+  {
+    "id": 84922,
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      }
+    ],
+    "name": "Clone Hero",
+    "rating": 78.75386650047395,
+    "release_dates": [
+      {
+        "id": 502124,
+        "date": 1496966400
+      },
+      {
+        "id": 502125,
+        "date": 1669680000
+      },
+      {
+        "id": 502126,
+        "date": 1530403200
+      },
+      {
+        "id": 502127,
+        "date": 1669680000
+      },
+      {
+        "id": 502128,
+        "date": 1491177600
+      },
+      {
+        "id": 502129,
+        "date": 1669680000
+      }
+    ]
+  },
+  {
+    "id": 143113,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "name": "Beacon Pines",
+    "rating": 78.68878750024226,
+    "release_dates": [
+      {
+        "id": 385156,
+        "date": 1663804800
+      },
+      {
+        "id": 385157,
+        "date": 1663804800
+      },
+      {
+        "id": 385158,
+        "date": 1663804800
+      },
+      {
+        "id": 385159,
+        "date": 1663804800
+      }
+    ]
+  },
+  {
+    "id": 202279,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Marvel Snap",
+    "rating": 78.51689066624287,
+    "release_dates": [
+      {
+        "id": 387603,
+        "date": 1666051200
+      },
+      {
+        "id": 387604,
+        "date": 1666051200
+      },
+      {
+        "id": 505744,
+        "date": 1692662400
+      },
+      {
+        "id": 505925,
+        "date": 1692662400
+      },
+      {
+        "id": 505926,
+        "date": 1666051200
+      }
+    ]
+  },
+  {
+    "id": 144465,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "rating": 78.50818738635131,
+    "release_dates": [
+      {
+        "id": 364199,
+        "date": 1655337600
+      },
+      {
+        "id": 364200,
+        "date": 1655337600
+      },
+      {
+        "id": 364201,
+        "date": 1655337600
+      },
+      {
+        "id": 364202,
+        "date": 1655337600
+      },
+      {
+        "id": 368236,
+        "date": 1655337600
+      },
+      {
+        "id": 414851,
+        "date": 1655337600
+      },
+      {
+        "id": 422815,
+        "date": 1655337600
+      },
+      {
+        "id": 455515,
+        "date": 1673308800
+      },
+      {
+        "id": 455516,
+        "date": 1673308800
+      }
+    ]
+  },
+  {
+    "id": 121763,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Syberia: The World Before",
+    "rating": 78.3295153440553,
+    "release_dates": [
+      {
+        "id": 344147,
+        "date": 1647561600
+      },
+      {
+        "id": 392753,
+        "date": 1668470400
+      },
+      {
+        "id": 392754,
+        "date": 1668470400
+      },
+      {
+        "id": 530759,
+        "date": 1697673600
+      }
+    ]
+  },
+  {
+    "id": 190361,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Iron Lung",
+    "rating": 78.14794798152253,
+    "release_dates": [
+      {
+        "id": 349208,
+        "date": 1646870400
+      },
+      {
+        "id": 435847,
+        "date": 1671408000
+      }
+    ]
+  },
+  {
+    "id": 199116,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Brotato",
+    "rating": 77.98972645043149,
+    "release_dates": [
+      {
+        "id": 469199,
+        "date": 1664236800
+      },
+      {
+        "id": 482476,
+        "date": 1687478400
+      },
+      {
+        "id": 498785,
+        "date": 1691020800
+      }
+    ]
+  },
+  {
+    "id": 145796,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Lil Gator Game",
+    "rating": 77.9832383179847,
+    "release_dates": [
+      {
+        "id": 512769,
+        "date": 1670976000
+      },
+      {
+        "id": 512770,
+        "date": 1670976000
+      },
+      {
+        "id": 516109,
+        "date": 1697241600
+      },
+      {
+        "id": 516110,
+        "date": 1697241600
+      },
+      {
+        "id": 516111,
+        "date": 1697241600
+      },
+      {
+        "id": 516112,
+        "date": 1697241600
+      },
+      {
+        "id": 516257,
+        "date": 1696896000
+      },
+      {
+        "id": 516258,
+        "date": 1696896000
+      },
+      {
+        "id": 516259,
+        "date": 1696896000
+      },
+      {
+        "id": 516260,
+        "date": 1696896000
+      },
+      {
+        "id": 525706,
+        "date": 1696896000
+      },
+      {
+        "id": 525707,
+        "date": 1696896000
+      }
+    ]
+  },
+  {
+    "id": 142453,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Kao the Kangaroo",
+    "release_dates": [
+      {
+        "id": 225021,
+        "date": 1008028800
+      }
+    ]
+  }
+]

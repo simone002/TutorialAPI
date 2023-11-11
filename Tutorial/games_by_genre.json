@@ -1,0 +1,134 @@
+{
+  "Role-playing (RPG)": [
+    {
+      "id": 92550,
+      "genres": [
+        {
+          "id": 12,
+          "name": "Role-playing (RPG)"
+        }
+      ],
+      "name": "Fable",
+      "rating": 95.00000
+    },
+    {
+      "id": 42931,
+      "genres": [
+        {
+          "id": 12,
+          "name": "Role-playing (RPG)"
+        }
+      ],
+      "name": "Bloodborne: Game of the Year Edition",
+      "rating": 97.10231895596941
+    }
+  ],
+  "Shooter": [
+    {
+      "id": 77290,
+      "genres": [
+        {
+          "id": 5,
+          "name": "Shooter"
+        }
+      ],
+      "name": "Call of Duty",
+      "rating": 69.45581166458915
+    },
+    {
+      "id": 45131,
+      "genres": [
+        {
+          "id": 5,
+          "name": "Shooter"
+        },
+        {
+          "id": 10,
+          "name": "Racing"
+        },
+        {
+          "id": 14,
+          "name": "Sport"
+        }
+      ],
+      "name": "Grand Theft Auto V: Special Edition",
+      "rating": 99.54327652183188
+    }
+  ],
+  "Racing": [
+    {
+      "id": 45131,
+      "genres": [
+        {
+          "id": 5,
+          "name": "Shooter"
+        },
+        {
+          "id": 10,
+          "name": "Racing"
+        },
+        {
+          "id": 14,
+          "name": "Sport"
+        }
+      ],
+      "name": "Grand Theft Auto V: Special Edition",
+      "rating": 99.54327652183188
+    }
+  ],
+  "Sport": [
+    {
+      "id": 45131,
+      "genres": [
+        {
+          "id": 5,
+          "name": "Shooter"
+        },
+        {
+          "id": 10,
+          "name": "Racing"
+        },
+        {
+          "id": 14,
+          "name": "Sport"
+        }
+      ],
+      "name": "Grand Theft Auto V: Special Edition",
+      "rating": 99.54327652183188
+    }
+  ],
+  "Platform": [
+    {
+      "id": 128,
+      "genres": [
+        {
+          "id": 8,
+          "name": "Platform"
+        },
+        {
+          "id": 31,
+          "name": "Adventure"
+        }
+      ],
+      "name": "Assassin's Creed",
+      "rating": 73.43684757824471
+    }
+  ],
+  "Adventure": [
+    {
+      "id": 128,
+      "genres": [
+        {
+          "id": 8,
+          "name": "Platform"
+        },
+        {
+          "id": 31,
+          "name": "Adventure"
+        }
+      ],
+      "name": "Assassin's Creed",
+      "rating": 73.43684757824471
+    }
+  ]
+}
